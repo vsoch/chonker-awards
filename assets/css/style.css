@@ -482,11 +482,22 @@ pre {
 .projects-list span {
     margin: 1rem 0 0.5rem;
 }
+
+.buttons {
+  text-align: center;
+  font-variant: all-small-caps;
+}
+
 .project {
     left: 0;
     position: relative;
     top: 0;
 }
+
+.button:hover {
+   color: tomato;
+}
+
 @media (min-width: 750px) {
     .project {
         margin-top: -21rem;
