@@ -1,0 +1,11 @@
+# User config
+
+author: "rseng"
+tagline: "The Chonker Awards"
+description: "What are the chonkiest of chonkers for GitHub repositories?"
+keywords: "GitHub, size, repository"
+repo: "https://github.com/rseng/chonker-awards"
+
+# Site config
+baseurl: "/chonker-awards"
+highlighter: rouge
