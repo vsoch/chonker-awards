@@ -1,0 +1,41 @@
+name: update-chonkers
+
+on:
+  schedule:
+    # Run nightly 1am
+    - cron: 0 1 * * *
+
+jobs:
+  Update:
+    name: Update the chonkers
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Run find-chonkers.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_AGAINST: "master"
+        run: |
+            sudo apt-get update && sudo apt-get install -y python3 python3-pip wget
+            sudo pip3 install requests pyaml
+            # Ensure using version from main
+            wget https://raw.githubusercontent.com/vsoch/chonker-awards/main/find-chonkers.py -O find_chonkers.py
+            chmod +x find_chonkers.py
+            python3 find_chonkers.py
+          
+      - name: Update Site
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_AGAINST: "main"
+        run: |
+          printf "GitHub Actor: ${GITHUB_ACTOR}\n"
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+
+          if git diff-index --quiet HEAD --; then
+             printf "No changes\n"
+          else
+             printf "Changes\n"
+             git commit -a -m "Automated update of chonkers $(date '+%Y-%m-%d')"
+             git push origin "${BRANCH_AGAINST}"
+          fi
