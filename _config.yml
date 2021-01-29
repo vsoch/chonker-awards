@@ -1,10 +1,10 @@
 # User config
 
-author: "rseng"
+author: "vsoch"
 tagline: "The Chonker Awards"
 description: "What are the chonkiest of chonkers for GitHub repositories?"
 keywords: "GitHub, size, repository"
-repo: "https://github.com/rseng/chonker-awards"
+repo: "https://github.com/vsoch/chonker-awards"
 
 # Site config
 baseurl: "/chonker-awards"
