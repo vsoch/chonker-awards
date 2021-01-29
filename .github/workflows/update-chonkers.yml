@@ -22,7 +22,7 @@ jobs:
             # Ensure using version from main
             wget https://raw.githubusercontent.com/vsoch/chonker-awards/main/find-chonkers.py -O find_chonkers.py
             chmod +x find_chonkers.py
-            python3 find_chonkers.py
+            python3 find_chonkers.py vsoch
           
       - name: Update Site
         env:
@@ -30,12 +30,38 @@ jobs:
           BRANCH_AGAINST: "main"
         run: |
           printf "GitHub Actor: ${GITHUB_ACTOR}\n"
+          export BRANCH_FROM="chonkers/update-$(date '+%Y-%m-%d')"
           git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 
+          BRANCH_EXISTS=$(git ls-remote --heads origin ${BRANCH_FROM})
+          if [[ -z ${BRANCH_EXISTS} ]]; then
+              printf "Branch does not exist in remote.\n"
+          else
+              printf "Branch already exists in remote.\n"
+              exit 1
+          fi
+          git branch
+          git checkout -b "${BRANCH_FROM}" || git checkout "${BRANCH_FROM}"
+          git branch
+
           if git diff-index --quiet HEAD --; then
+             export OPEN_PULL_REQUEST=0
              printf "No changes\n"
           else
+             export OPEN_PULL_REQUEST=1
              printf "Changes\n"
              git commit -a -m "Automated update of chonkers $(date '+%Y-%m-%d')"
-             git push origin "${BRANCH_AGAINST}"
+             git push origin "${BRANCH_FROM}"
           fi
+
+          echo "OPEN_PULL_REQUEST=${OPEN_PULL_REQUEST}" >> $GITHUB_ENV
+          echo "PULL_REQUEST_FROM_BRANCH=${BRANCH_FROM}" >> $GITHUB_ENV
+          echo "PULL_REQUEST_TITLE=[tributors] ${BRANCH_FROM}" >> $GITHUB_ENV
+          echo "PULL_REQUEST_BODY=Tributors update automated pull request." >> $GITHUB_ENV
+
+      - name: Open Pull Request
+        uses: vsoch/pull-request-action@1.0.12
+        if: ${{ env.OPEN_PULL_REQUEST == '1' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PULL_REQUEST_BRANCH: "master"
