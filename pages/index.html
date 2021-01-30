@@ -5,55 +5,52 @@ permalink: /
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>{{ site.author }} / {{ site.tagline }}</title>
-	<meta name="author" content="{{ site.author }}">
-	<meta name="description" content="{{ site.description }}">
-	<meta name="keywords" content="{{ site.keywords }}">
-	{% include head.html %}
+    <title>{{ site.author }} / {{ site.tagline }}</title>
+    <meta name="author" content="{{ site.author }}">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="keywords" content="{{ site.keywords }}">
+    {% include head.html %}
 </head>
 <body>
-	{% include header.html %}
-	<main class="content">
-		<section class="projects">
-			<div class="container">
-				<h2 id="repos">Repository Chonks</h2>
-				<ul class="projects-list">
-					{% for item in site.data.repos.chonkers %}
-						<li>
-							<a href="{{ item.html_url }}" target="_blank">
-								<div class="img-wrapper">
-									<img src="{{ item.image | prepend: site.baseurl }}" alt="{{ item.name }}" />
+{% include header.html %}
+    <main class="content">
+        <section class="projects">
+            <div class="container">
+                <h2 id="repos">Repository Chonks</h2>
+                <ul class="projects-list">
+                    {% for item in site.data.repos.chonkers %}
+                        <li>
+                            <a href="{{ item.html_url }}" target="_blank">
+                                <div class="img-wrapper">
+                                    <img src="{{ item.image | prepend: site.baseurl }}" alt="{{ item.name }}" />
                                                                         <div class="centered">{{ item.name }} <br><span style="color:white">{{ item.size_name }}</span></div>
-								</div>
-								<span class="h2">{{ item.name }}</span>
-								<h3>{{ item.size }}</h3>
-							</a>
-						</li>
-					{% endfor %}
-				</ul>
-
-
-				<h2 id="files">Files Chonks</h2>
-				<ul class="projects-list">
-					{% for item in site.data.files.chonkers %}
-
-						<li>
-							<a href="{{ item.url }}" target="_blank">
-								<div class="img-wrapper">
-									<img src="{{ item.image | prepend: site.baseurl }}" alt="{{ item.name }}" />
-                                                                        <div class="centered">{{ item.name }} <br><span style="color:white">{{ item.size_name }}</span></div>
-								</div>
-								<span class="h2">{{ item.name }}</span>
-								<h3>{{ item.size }}</h3>
-							</a>
-						</li>
-					{% endfor %}
-				</ul>
-			</div>
-		</section>
-	</main>
-	{% include footer.html %}
-	<script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>
-	<script src="{{ "/assets/scripts/home.js" | prepend: site.baseurl }}"></script>
+                                </div>
+                                <span class="h2">{{ item.name }}</span>
+                                <h3>{{ item.size }}</h3>
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+                <h2 id="files">Files Chonks</h2>
+                <ul class="projects-list">
+                    {% for item in site.data.files.chonkers %}
+                        <li>
+                            <a href="{{ item.url }}" target="_blank">
+                                <div class="img-wrapper">
+                                    <img src="{{ item.image | prepend: site.baseurl }}" alt="{{ item.name }}" />
+                                    <div class="centered">{{ item.name }} <br><span style="color:white">{{ item.size_name }}</span></div>
+                                </div>
+                                <span class="h2">{{ item.name | truncate: 50 }}</span>
+                                <h3>{{ item.size }}</h3>
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </section>
+    </main>
+    {% include footer.html %}
+    <script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/assets/scripts/home.js" | prepend: site.baseurl }}"></script>
 </body>
 </html>

@@ -494,6 +494,12 @@ pre {
     top: 0;
 }
 
+.button {
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: chartreuse;
+}
+
 .button:hover {
    color: tomato;
 }
