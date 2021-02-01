@@ -60,8 +60,8 @@ jobs:
 
           echo "OPEN_PULL_REQUEST=${OPEN_PULL_REQUEST}" >> $GITHUB_ENV
           echo "PULL_REQUEST_FROM_BRANCH=${BRANCH_FROM}" >> $GITHUB_ENV
-          echo "PULL_REQUEST_TITLE=[tributors] ${BRANCH_FROM}" >> $GITHUB_ENV
-          echo "PULL_REQUEST_BODY=Tributors update automated pull request." >> $GITHUB_ENV
+          echo "PULL_REQUEST_TITLE=[chonkers] ${BRANCH_FROM}" >> $GITHUB_ENV
+          echo "PULL_REQUEST_BODY=Chonkers update automated pull request." >> $GITHUB_ENV
 
       - name: Open Pull Request
         uses: vsoch/pull-request-action@1.0.12
