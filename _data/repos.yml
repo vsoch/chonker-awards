@@ -125,10 +125,10 @@ chonkers:
   owner: vsoch, rawsize: 280741, size: 280.74 MB, size_name: HEFTYCHONK, stargazer_count: null,
   updated_at: '2019-07-08T20:09:15Z', url: 'https://github.com/vsoch/discourse', watchers_count: 0}
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2015-09-03T20:06:16Z',
-  default_branch: master, forks: 3, homepage: 'https://vsoch.github.io', html_url: 'https://github.com/vsoch/vsoch.github.io',
+  default_branch: master, forks: 2, homepage: 'https://vsoch.github.io', html_url: 'https://github.com/vsoch/vsoch.github.io',
   image: /assets/images/sizes/4.png, language: JavaScript, name: vsoch/vsoch.github.io,
-  open_issues_count: 8, owner: vsoch, rawsize: 191854, size: 191.85 MB, size_name: HEFTYCHONK,
-  stargazer_count: null, updated_at: '2021-01-31T19:37:44Z', url: 'https://github.com/vsoch/vsoch.github.io',
+  open_issues_count: 8, owner: vsoch, rawsize: 191857, size: 191.86 MB, size_name: HEFTYCHONK,
+  stargazer_count: null, updated_at: '2021-02-02T17:52:49Z', url: 'https://github.com/vsoch/vsoch.github.io',
   watchers_count: 6}
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2018-10-12T20:07:21Z',
   default_branch: master, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/stanford-cpp-library',
