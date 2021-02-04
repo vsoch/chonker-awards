@@ -23,6 +23,8 @@ jobs:
             wget https://raw.githubusercontent.com/vsoch/chonker-awards/main/find-chonkers.py -O find_chonkers.py
             chmod +x find_chonkers.py
             python3 find_chonkers.py vsoch
+            # Do not consider adding file to git
+            rm find_chonkers.py
           
       - name: Update Site
         env:
