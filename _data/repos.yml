@@ -217,9 +217,14 @@ chonkers:
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2020-12-20T21:32:28Z',
   default_branch: main, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/caliper-metrics',
   image: /assets/images/sizes/3.png, language: null, name: vsoch/caliper-metrics,
-  open_issues_count: 1, owner: vsoch, rawsize: 114437, size: 114.44 MB, size_name: A
-    Heckin' Chonker, stargazer_count: null, updated_at: '2021-02-11T05:26:06Z', url: 'https://github.com/vsoch/caliper-metrics',
+  open_issues_count: 1, owner: vsoch, rawsize: 118112, size: 118.11 MB, size_name: A
+    Heckin' Chonker, stargazer_count: null, updated_at: '2021-02-12T01:44:06Z', url: 'https://github.com/vsoch/caliper-metrics',
   watchers_count: 0}
+- {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2020-12-10T19:48:39Z',
+  default_branch: develop, forks: 0, homepage: 'https://spack.io', html_url: 'https://github.com/vsoch/spack',
+  image: /assets/images/sizes/3.png, language: Python, name: vsoch/spack, open_issues_count: 1,
+  owner: vsoch, rawsize: 107725, size: 107.72 MB, size_name: A Heckin' Chonker, stargazer_count: null,
+  updated_at: '2021-02-12T21:57:19Z', url: 'https://github.com/vsoch/spack', watchers_count: 0}
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2016-01-09T01:53:47Z',
   default_branch: master, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/reverse-inference-ci',
   image: /assets/images/sizes/3.png, language: CSS, name: vsoch/reverse-inference-ci,
@@ -235,9 +240,9 @@ chonkers:
   watchers_count: 4}
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2019-08-07T13:40:50Z',
   default_branch: master, forks: 0, homepage: 'https://pannellum.org/', html_url: 'https://github.com/vsoch/pannellum',
-  image: /assets/images/sizes/3.png, language: JavaScript, name: vsoch/pannellum,
-  open_issues_count: 0, owner: vsoch, rawsize: 106324, size: 106.32 MB, size_name: A
-    Heckin' Chonker, stargazer_count: null, updated_at: '2019-08-07T16:30:38Z', url: 'https://github.com/vsoch/pannellum',
+  image: /assets/images/sizes/2.png, language: JavaScript, name: vsoch/pannellum,
+  open_issues_count: 0, owner: vsoch, rawsize: 106324, size: 106.32 MB, size_name: He
+    Chomnk, stargazer_count: null, updated_at: '2019-08-07T16:30:38Z', url: 'https://github.com/vsoch/pannellum',
   watchers_count: 0}
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2016-03-16T21:07:46Z',
   default_branch: master, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/repofish',
@@ -255,11 +260,6 @@ chonkers:
   owner: vsoch, rawsize: 100367, size: 100.37 MB, size_name: He Chomnk, stargazer_count: null,
   updated_at: '2018-12-20T16:33:30Z', url: 'https://github.com/vsoch/pybraincompare',
   watchers_count: 15}
-- {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2020-12-10T19:48:39Z',
-  default_branch: develop, forks: 0, homepage: 'https://spack.io', html_url: 'https://github.com/vsoch/spack',
-  image: /assets/images/sizes/2.png, language: null, name: vsoch/spack, open_issues_count: 1,
-  owner: vsoch, rawsize: 96951, size: 96.95 MB, size_name: He Chomnk, stargazer_count: null,
-  updated_at: '2020-12-10T19:48:41Z', url: 'https://github.com/vsoch/spack', watchers_count: 0}
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2019-10-21T17:15:01Z',
   default_branch: master, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/google-group-export',
   image: /assets/images/sizes/2.png, language: Python, name: vsoch/google-group-export,
