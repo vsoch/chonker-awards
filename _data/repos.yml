@@ -68,8 +68,8 @@ chonkers:
   html_url: 'https://github.com/vsoch/hospital-chargemaster', image: /assets/images/sizes/5.png,
   language: Python, name: vsoch/hospital-chargemaster, open_issues_count: 7, owner: vsoch,
   rawsize: 495164, size: 495.16 MB, size_name: MEGA CHONKER, stargazer_count: null,
-  updated_at: '2021-01-22T00:56:11Z', url: 'https://github.com/vsoch/hospital-chargemaster',
-  watchers_count: 23}
+  updated_at: '2021-02-13T21:56:40Z', url: 'https://github.com/vsoch/hospital-chargemaster',
+  watchers_count: 24}
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2020-10-21T22:22:30Z',
   default_branch: master, forks: 0, homepage: '', html_url: 'https://github.com/vsoch/training-data-analyst',
   image: /assets/images/sizes/5.png, language: null, name: vsoch/training-data-analyst,
@@ -202,6 +202,12 @@ chonkers:
   open_issues_count: 0, owner: vsoch, rawsize: 124191, size: 124.19 MB, size_name: A
     Heckin' Chonker, stargazer_count: null, updated_at: '2019-11-24T23:47:41Z', url: 'https://github.com/vsoch/dockerfile-packages',
   watchers_count: 1}
+- {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2020-12-20T21:32:28Z',
+  default_branch: main, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/caliper-metrics',
+  image: /assets/images/sizes/3.png, language: null, name: vsoch/caliper-metrics,
+  open_issues_count: 1, owner: vsoch, rawsize: 122881, size: 122.88 MB, size_name: A
+    Heckin' Chonker, stargazer_count: null, updated_at: '2021-02-13T04:55:20Z', url: 'https://github.com/vsoch/caliper-metrics',
+  watchers_count: 0}
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2018-08-07T00:31:43Z',
   default_branch: develop_v1, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/wgbs-pipeline',
   image: /assets/images/sizes/3.png, language: wdl, name: vsoch/wgbs-pipeline, open_issues_count: 1,
@@ -213,12 +219,6 @@ chonkers:
   image: /assets/images/sizes/3.png, language: TeX, name: vsoch/presentation-template,
   open_issues_count: 0, owner: vsoch, rawsize: 121937, size: 121.94 MB, size_name: A
     Heckin' Chonker, stargazer_count: null, updated_at: '2018-12-20T16:33:30Z', url: 'https://github.com/vsoch/presentation-template',
-  watchers_count: 0}
-- {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2020-12-20T21:32:28Z',
-  default_branch: main, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/caliper-metrics',
-  image: /assets/images/sizes/3.png, language: null, name: vsoch/caliper-metrics,
-  open_issues_count: 1, owner: vsoch, rawsize: 118112, size: 118.11 MB, size_name: A
-    Heckin' Chonker, stargazer_count: null, updated_at: '2021-02-12T01:44:06Z', url: 'https://github.com/vsoch/caliper-metrics',
   watchers_count: 0}
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2020-12-10T19:48:39Z',
   default_branch: develop, forks: 0, homepage: 'https://spack.io', html_url: 'https://github.com/vsoch/spack',
