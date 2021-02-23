@@ -122,7 +122,7 @@ chonkers:
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2021-02-21T17:37:15Z',
   default_branch: master, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/libabigail',
   image: /assets/images/sizes/4.png, language: C++, name: vsoch/libabigail, open_issues_count: 0,
-  owner: vsoch, rawsize: 281898, size: 281.9 MB, size_name: HEFTYCHONK, stargazer_count: null,
+  owner: vsoch, rawsize: 281970, size: 281.97 MB, size_name: HEFTYCHONK, stargazer_count: null,
   updated_at: '2021-02-21T17:56:04Z', url: 'https://github.com/vsoch/libabigail',
   watchers_count: 0}
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2019-07-08T20:08:55Z',
@@ -211,8 +211,8 @@ chonkers:
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2020-12-20T21:32:28Z',
   default_branch: main, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/caliper-metrics',
   image: /assets/images/sizes/3.png, language: null, name: vsoch/caliper-metrics,
-  open_issues_count: 1, owner: vsoch, rawsize: 123774, size: 123.77 MB, size_name: A
-    Heckin' Chonker, stargazer_count: null, updated_at: '2021-02-21T05:14:24Z', url: 'https://github.com/vsoch/caliper-metrics',
+  open_issues_count: 1, owner: vsoch, rawsize: 123783, size: 123.78 MB, size_name: A
+    Heckin' Chonker, stargazer_count: null, updated_at: '2021-02-22T01:57:48Z', url: 'https://github.com/vsoch/caliper-metrics',
   watchers_count: 0}
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2018-08-07T00:31:43Z',
   default_branch: develop_v1, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/wgbs-pipeline',
