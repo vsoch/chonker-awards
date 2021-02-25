@@ -202,18 +202,18 @@ chonkers:
   open_issues_count: 0, owner: vsoch, rawsize: 126313, size: 126.31 MB, size_name: A
     Heckin' Chonker, stargazer_count: null, updated_at: '2020-11-24T18:55:51Z', url: 'https://github.com/vsoch/containers-story',
   watchers_count: 1}
+- {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2020-12-20T21:32:28Z',
+  default_branch: main, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/caliper-metrics',
+  image: /assets/images/sizes/3.png, language: null, name: vsoch/caliper-metrics,
+  open_issues_count: 1, owner: vsoch, rawsize: 124294, size: 124.29 MB, size_name: A
+    Heckin' Chonker, stargazer_count: null, updated_at: '2021-02-24T02:03:52Z', url: 'https://github.com/vsoch/caliper-metrics',
+  watchers_count: 0}
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2019-01-20T20:58:18Z',
   default_branch: master, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/dockerfile-packages',
   image: /assets/images/sizes/3.png, language: Python, name: vsoch/dockerfile-packages,
   open_issues_count: 0, owner: vsoch, rawsize: 124191, size: 124.19 MB, size_name: A
     Heckin' Chonker, stargazer_count: null, updated_at: '2019-11-24T23:47:41Z', url: 'https://github.com/vsoch/dockerfile-packages',
   watchers_count: 1}
-- {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2020-12-20T21:32:28Z',
-  default_branch: main, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/caliper-metrics',
-  image: /assets/images/sizes/3.png, language: null, name: vsoch/caliper-metrics,
-  open_issues_count: 1, owner: vsoch, rawsize: 123962, size: 123.96 MB, size_name: A
-    Heckin' Chonker, stargazer_count: null, updated_at: '2021-02-23T05:02:29Z', url: 'https://github.com/vsoch/caliper-metrics',
-  watchers_count: 0}
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2018-08-07T00:31:43Z',
   default_branch: develop_v1, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/wgbs-pipeline',
   image: /assets/images/sizes/3.png, language: wdl, name: vsoch/wgbs-pipeline, open_issues_count: 1,
@@ -229,7 +229,7 @@ chonkers:
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2020-12-10T19:48:39Z',
   default_branch: develop, forks: 0, homepage: 'https://spack.io', html_url: 'https://github.com/vsoch/spack',
   image: /assets/images/sizes/3.png, language: Python, name: vsoch/spack, open_issues_count: 1,
-  owner: vsoch, rawsize: 108730, size: 108.73 MB, size_name: A Heckin' Chonker, stargazer_count: null,
+  owner: vsoch, rawsize: 109284, size: 109.28 MB, size_name: A Heckin' Chonker, stargazer_count: null,
   updated_at: '2021-02-12T21:57:19Z', url: 'https://github.com/vsoch/spack', watchers_count: 0}
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2016-01-09T01:53:47Z',
   default_branch: master, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/reverse-inference-ci',
