@@ -104,8 +104,8 @@ chonkers:
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2020-02-21T20:18:20Z',
   default_branch: master, forks: 0, homepage: 'https://vsoch.github.io/natacha-bot/',
   html_url: 'https://github.com/vsoch/natacha-bot', image: /assets/images/sizes/5.png,
-  language: Lua, name: vsoch/natacha-bot, open_issues_count: 3, owner: vsoch, rawsize: 330474,
-  size: 330.47 MB, size_name: MEGA CHONKER, stargazer_count: null, updated_at: '2021-03-01T01:10:43Z',
+  language: Lua, name: vsoch/natacha-bot, open_issues_count: 3, owner: vsoch, rawsize: 330477,
+  size: 330.48 MB, size_name: MEGA CHONKER, stargazer_count: null, updated_at: '2021-03-01T01:10:43Z',
   url: 'https://github.com/vsoch/natacha-bot', watchers_count: 3}
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2016-08-07T21:52:39Z',
   default_branch: master, forks: 1, homepage: null, html_url: 'https://github.com/vsoch/forward-modeling-cognitive-concepts',
@@ -205,8 +205,8 @@ chonkers:
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2020-12-20T21:32:28Z',
   default_branch: main, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/caliper-metrics',
   image: /assets/images/sizes/3.png, language: null, name: vsoch/caliper-metrics,
-  open_issues_count: 1, owner: vsoch, rawsize: 124335, size: 124.33 MB, size_name: A
-    Heckin' Chonker, stargazer_count: null, updated_at: '2021-02-28T02:04:25Z', url: 'https://github.com/vsoch/caliper-metrics',
+  open_issues_count: 1, owner: vsoch, rawsize: 124345, size: 124.34 MB, size_name: A
+    Heckin' Chonker, stargazer_count: null, updated_at: '2021-03-01T05:18:21Z', url: 'https://github.com/vsoch/caliper-metrics',
   watchers_count: 0}
 - {avatar: 'https://avatars.githubusercontent.com/u/814322?v=4', created_at: '2019-01-20T20:58:18Z',
   default_branch: master, forks: 0, homepage: null, html_url: 'https://github.com/vsoch/dockerfile-packages',
