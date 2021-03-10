@@ -1,125 +1,361 @@
 chonkers:
-- {image: /assets/images/sizes/6.png, name: 'vsoch/vbmis.com: media/flash/paciencia.exe',
-  rawsize: 93631440, size: 89.29 MB, size_name: OH LAWD HE COMIN, url: 'https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/media/flash/paciencia.exe'}
-- {image: /assets/images/sizes/6.png, name: 'vsoch/vbmis.com: media/flash/paciencia.swf',
-  rawsize: 92050371, size: 87.79 MB, size_name: OH LAWD HE COMIN, url: 'https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/media/flash/paciencia.swf'}
-- {image: /assets/images/sizes/6.png, name: 'vsoch/natacha-bot: cv/word-rnn-trained.t7',
-  rawsize: 91059432, size: 86.84 MB, size_name: OH LAWD HE COMIN, url: 'https://github.com/vsoch/natacha-bot/blob/434781b92b7a2770b34ec265e14dbb089489bcd9/cv/word-rnn-trained.t7'}
-- {image: /assets/images/sizes/6.png, name: 'vsoch/authorSynth: data/edist_scores_pAgF_cosSOM.Rda',
-  rawsize: 86769534, size: 82.75 MB, size_name: OH LAWD HE COMIN, url: 'https://github.com/vsoch/authorSynth/blob/b78c399e67fffeb3fc84a1b01a1eee6bf0c75f96/data/edist_scores_pAgF_cosSOM.Rda'}
-- {image: /assets/images/sizes/6.png, name: 'vsoch/containers-story: assets/video/container-story-filtered.mp4',
-  rawsize: 85476921, size: 81.52 MB, size_name: OH LAWD HE COMIN, url: 'https://github.com/vsoch/containers-story/blob/f5198880854c9a11e89e499770b80887bb2c9da0/assets/video/container-story-filtered.mp4'}
-- {image: /assets/images/sizes/6.png, name: 'vsoch/vsoch.github.io: assets/images/posts/schemaorg/extraction.gif',
-  rawsize: 77652618, size: 74.06 MB, size_name: OH LAWD HE COMIN, url: 'https://github.com/vsoch/vsoch.github.io/blob/785215215e30e479cca99920ef2cc83b9d16c685/assets/images/posts/schemaorg/extraction.gif'}
-- {image: /assets/images/sizes/6.png, name: 'vsoch/MIRACLextra: ara/hist/ara_nissl_25um.nii.gz',
-  rawsize: 70638219, size: 67.37 MB, size_name: OH LAWD HE COMIN, url: 'https://github.com/vsoch/MIRACLextra/blob/c23c452c22ff9a3b5f45b061f98fc8ac38997a50/ara/hist/ara_nissl_25um.nii.gz'}
-- {image: /assets/images/sizes/6.png, name: 'vsoch/vbmis.com: projects/nica/img/brain_template.psd',
-  rawsize: 66128415, size: 63.06 MB, size_name: OH LAWD HE COMIN, url: 'https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/projects/nica/img/brain_template.psd'}
-- {image: /assets/images/sizes/6.png, name: 'vsoch/vbmis.com: media/flash/Maya.swf',
-  rawsize: 64702541, size: 61.71 MB, size_name: OH LAWD HE COMIN, url: 'https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/media/flash/Maya.swf'}
-- {image: /assets/images/sizes/6.png, name: 'vsoch/dockerfile-packages: pypi-metadata-3-7-2019.pkl.tar.gz',
-  rawsize: 61022284, size: 58.2 MB, size_name: OH LAWD HE COMIN, url: 'https://github.com/vsoch/dockerfile-packages/blob/4bc789eebccea82eb6c594b429c042f592b82a90/pypi-metadata-3-7-2019.pkl.tar.gz'}
-- {image: /assets/images/sizes/5.png, name: 'vsoch/containers-story: assets/video/container-story.mp4',
-  rawsize: 56946072, size: 54.31 MB, size_name: MEGA CHONKER, url: 'https://github.com/vsoch/containers-story/blob/f5198880854c9a11e89e499770b80887bb2c9da0/assets/video/container-story.mp4'}
-- {image: /assets/images/sizes/5.png, name: 'vsoch/dockerfile-packages: pip-vectors.pkl',
-  rawsize: 56637924, size: 54.01 MB, size_name: MEGA CHONKER, url: 'https://github.com/vsoch/dockerfile-packages/blob/4bc789eebccea82eb6c594b429c042f592b82a90/pip-vectors.pkl'}
-- {image: /assets/images/sizes/5.png, name: 'vsoch/BrainMessage: examples/secretMessage.zip',
-  rawsize: 52590502, size: 50.15 MB, size_name: MEGA CHONKER, url: 'https://github.com/vsoch/BrainMessage/blob/7084b967a72a3fbc8652664b56ea4c10ddbe036b/examples/secretMessage.zip'}
-- {image: /assets/images/sizes/5.png, name: 'vsoch/BrainMessage: examples/decodeMe.zip',
-  rawsize: 52586745, size: 50.15 MB, size_name: MEGA CHONKER, url: 'https://github.com/vsoch/BrainMessage/blob/7084b967a72a3fbc8652664b56ea4c10ddbe036b/examples/decodeMe.zip'}
-- {image: /assets/images/sizes/5.png, name: 'vsoch/BrainMessage: examples/bmi260.zip',
-  rawsize: 52583195, size: 50.15 MB, size_name: MEGA CHONKER, url: 'https://github.com/vsoch/BrainMessage/blob/7084b967a72a3fbc8652664b56ea4c10ddbe036b/examples/bmi260.zip'}
-- {image: /assets/images/sizes/5.png, name: 'vsoch/noisecloud: mr/raw/TPM.nii', rawsize: 50951032,
-  size: 48.59 MB, size_name: MEGA CHONKER, url: 'https://github.com/vsoch/noisecloud/blob/b0a3001963b358b828cf13f3044a5556fa6941ec/mr/raw/TPM.nii'}
-- {image: /assets/images/sizes/5.png, name: 'vsoch/snowstorm: img/surprise_large.mp4',
-  rawsize: 49737191, size: 47.43 MB, size_name: MEGA CHONKER, url: 'https://github.com/vsoch/snowstorm/blob/a712be9385164c3882a828b2459a6d2dcd13e4af/img/surprise_large.mp4'}
-- {image: /assets/images/sizes/5.png, name: 'vsoch/mpileup: data/test.bam', rawsize: 49731375,
-  size: 47.43 MB, size_name: MEGA CHONKER, url: 'https://github.com/vsoch/mpileup/blob/50b7f3980ce2aeecd9b88d39b0d2a33fc9304d0c/data/test.bam'}
-- {image: /assets/images/sizes/5.png, name: 'vsoch/natacha-bot: cv/char-rnn-trained.t7',
-  rawsize: 45894114, size: 43.77 MB, size_name: MEGA CHONKER, url: 'https://github.com/vsoch/natacha-bot/blob/434781b92b7a2770b34ec265e14dbb089489bcd9/cv/char-rnn-trained.t7'}
-- {image: /assets/images/sizes/5.png, name: 'vsoch/wiki: long/WFU_PickAtlas_3.0.zip',
-  rawsize: 44692860, size: 42.62 MB, size_name: MEGA CHONKER, url: 'https://github.com/vsoch/wiki/blob/b48b6089b0d74af014321e2f884d5a4371c8c2b2/long/WFU_PickAtlas_3.0.zip'}
-- {image: /assets/images/sizes/4.png, name: 'vsoch/wiki: long/pictures/halloween 041.avi',
-  rawsize: 42590782, size: 40.62 MB, size_name: HEFTYCHONK, url: 'https://github.com/vsoch/wiki/blob/b48b6089b0d74af014321e2f884d5a4371c8c2b2/long/pictures/halloween%20041.avi'}
-- {image: /assets/images/sizes/4.png, name: 'vsoch/repofish: analysis/models/method_vectors_similarity.pdf',
-  rawsize: 41133788, size: 39.23 MB, size_name: HEFTYCHONK, url: 'https://github.com/vsoch/repofish/blob/88b2536ca8c4d7bad22bbb867912dcec5aaf2b6b/analysis/models/method_vectors_similarity.pdf'}
-- {image: /assets/images/sizes/4.png, name: 'vsoch/matlab-duke: Matrix/TEST.mat',
-  rawsize: 40218624, size: 38.36 MB, size_name: HEFTYCHONK, url: 'https://github.com/vsoch/matlab-duke/blob/99a5fb745c0a1dbcfbe6b639c28c18b1c6bd9f66/Matrix/TEST.mat'}
-- {image: /assets/images/sizes/4.png, name: 'vsoch/zenodo-ml: records.pkl', rawsize: 39397502,
-  size: 37.57 MB, size_name: HEFTYCHONK, url: 'https://github.com/vsoch/zenodo-ml/blob/28f59cd190a5fa449fb16627f2373fb41a42f395/records.pkl'}
-- {image: /assets/images/sizes/4.png, name: 'vsoch/matlab-duke: Matrix/040526133543_gm.mat',
-  rawsize: 39227392, size: 37.41 MB, size_name: HEFTYCHONK, url: 'https://github.com/vsoch/matlab-duke/blob/99a5fb745c0a1dbcfbe6b639c28c18b1c6bd9f66/Matrix/040526133543_gm.mat'}
-- {image: /assets/images/sizes/4.png, name: 'vsoch/hospital-chargemaster-analysis:
-    vectorizer-X.pkl', rawsize: 38873360, size: 37.07 MB, size_name: HEFTYCHONK, url: 'https://github.com/vsoch/hospital-chargemaster-analysis/blob/d092c2ef7f03a05b7bf680760b96462c5dba7af6/vectorizer-X.pkl'}
-- {image: /assets/images/sizes/4.png, name: 'vsoch/hospital-chargemaster: data/oshpd-ca/2019-01-17/106301279_CDM_2018.xlsx',
-  rawsize: 37868957, size: 36.11 MB, size_name: HEFTYCHONK, url: 'https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/oshpd-ca/2019-01-17/106301279_CDM_2018.xlsx'}
-- {image: /assets/images/sizes/4.png, name: 'vsoch/hospital-chargemaster: data/uc-irvine-medical-center/latest/106301279-cdm-2018.xlsx',
-  rawsize: 37868957, size: 36.11 MB, size_name: HEFTYCHONK, url: 'https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/uc-irvine-medical-center/latest/106301279-cdm-2018.xlsx'}
-- {image: /assets/images/sizes/4.png, name: 'vsoch/hospital-chargemaster: data/oshpd-ca/latest/106301279_CDM_2018.xlsx',
-  rawsize: 37868957, size: 36.11 MB, size_name: HEFTYCHONK, url: 'https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/oshpd-ca/latest/106301279_CDM_2018.xlsx'}
-- {image: /assets/images/sizes/4.png, name: 'vsoch/hospital-chargemaster: data/uc-irvine-medical-center/2019-01-19/106301279-cdm-2018.xlsx',
-  rawsize: 37868957, size: 36.11 MB, size_name: HEFTYCHONK, url: 'https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/uc-irvine-medical-center/2019-01-19/106301279-cdm-2018.xlsx'}
-- {image: /assets/images/sizes/3.png, name: 'vsoch/vbmis.com: media/flash/surgerythree.exe',
-  rawsize: 37427035, size: 35.69 MB, size_name: A Heckin' Chonker, url: 'https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/media/flash/surgerythree.exe'}
-- {image: /assets/images/sizes/3.png, name: 'vsoch/vbmis.com: media/flash/Surgery_Postcard.swf',
-  rawsize: 37330514, size: 35.6 MB, size_name: A Heckin' Chonker, url: 'https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/media/flash/Surgery_Postcard.swf'}
-- {image: /assets/images/sizes/3.png, name: 'vsoch/vbmis.com: graphics/LONG/Logo and
-    Design/desktops.psd', rawsize: 36620492, size: 34.92 MB, size_name: A Heckin'
-    Chonker, url: 'https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/graphics/LONG/Logo%20and%20Design/desktops.psd'}
-- {image: /assets/images/sizes/3.png, name: 'vsoch/vbmis.com: media/flash/Postcard2.swf',
-  rawsize: 36136024, size: 34.46 MB, size_name: A Heckin' Chonker, url: 'https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/media/flash/Postcard2.swf'}
-- {image: /assets/images/sizes/3.png, name: 'vsoch/vbmis.com: media/flash/surgerythree.swf',
-  rawsize: 35845971, size: 34.19 MB, size_name: A Heckin' Chonker, url: 'https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/media/flash/surgerythree.swf'}
-- {image: /assets/images/sizes/3.png, name: 'vsoch/wiki: long/install/xwin32.zip',
-  rawsize: 35656145, size: 34.0 MB, size_name: A Heckin' Chonker, url: 'https://github.com/vsoch/wiki/blob/b48b6089b0d74af014321e2f884d5a4371c8c2b2/long/install/xwin32.zip'}
-- {image: /assets/images/sizes/3.png, name: 'vsoch/wiki: long/install/Cogent2000v1.zip',
-  rawsize: 32894750, size: 31.37 MB, size_name: A Heckin' Chonker, url: 'https://github.com/vsoch/wiki/blob/b48b6089b0d74af014321e2f884d5a4371c8c2b2/long/install/Cogent2000v1.zip'}
-- {image: /assets/images/sizes/3.png, name: 'vsoch/vbmis.com: graphics/LONG/Flyers
-    and Forms/BRAIN_v3.psd', rawsize: 32710317, size: 31.19 MB, size_name: A Heckin'
-    Chonker, url: 'https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/graphics/LONG/Flyers%20and%20Forms/BRAIN_v3.psd'}
-- {image: /assets/images/sizes/3.png, name: 'vsoch/MIRACLextra: ara/template/average_template_25um_OBmasked.nii.gz',
-  rawsize: 32062807, size: 30.58 MB, size_name: A Heckin' Chonker, url: 'https://github.com/vsoch/MIRACLextra/blob/c23c452c22ff9a3b5f45b061f98fc8ac38997a50/ara/template/average_template_25um_OBmasked.nii.gz'}
-- {image: /assets/images/sizes/3.png, name: 'vsoch/vbmis.com: graphics/LONG/Flyers
-    and Forms/BRAIN.psd', rawsize: 30897014, size: 29.47 MB, size_name: A Heckin'
-    Chonker, url: 'https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/graphics/LONG/Flyers%20and%20Forms/BRAIN.psd'}
-- {image: /assets/images/sizes/2.png, name: 'vsoch/wiki: long/CLINIC.zip', rawsize: 30852371,
-  size: 29.42 MB, size_name: He Chomnk, url: 'https://github.com/vsoch/wiki/blob/b48b6089b0d74af014321e2f884d5a4371c8c2b2/long/CLINIC.zip'}
-- {image: /assets/images/sizes/2.png, name: 'vsoch/cogatvoxel: data/regression_params.pkl',
-  rawsize: 30379867, size: 28.97 MB, size_name: He Chomnk, url: 'https://github.com/vsoch/cogatvoxel/blob/59b2db99c2fe7187bf3b0883d49f7435389cbf6e/data/regression_params.pkl'}
-- {image: /assets/images/sizes/2.png, name: 'vsoch/cogat_voxel: data/regression_params.pkl',
-  rawsize: 30379867, size: 28.97 MB, size_name: He Chomnk, url: 'https://github.com/vsoch/cogat_voxel/blob/21f3115048637da59b4b307caa9633823eceb124/data/regression_params.pkl'}
-- {image: /assets/images/sizes/2.png, name: 'vsoch/cogatcloud: data/regression_params.pkl',
-  rawsize: 30379867, size: 28.97 MB, size_name: He Chomnk, url: 'https://github.com/vsoch/cogatcloud/blob/fd4f51a2887792faf835de2bf72a7f6b73ff3c19/data/regression_params.pkl'}
-- {image: /assets/images/sizes/2.png, name: 'vsoch/hospital-chargemaster: data/oshpd-ca/data-latest-1.tsv',
-  rawsize: 12275977, size: 11.71 MB, size_name: He Chomnk, url: 'https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/oshpd-ca/data-latest-1.tsv'}
-- {image: /assets/images/sizes/2.png, name: 'vsoch/hospital-chargemaster: data/oshpd-ca/data-2019-1.tsv',
-  rawsize: 12275977, size: 11.71 MB, size_name: He Chomnk, url: 'https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/oshpd-ca/data-2019-1.tsv'}
-- {image: /assets/images/sizes/2.png, name: 'vsoch/hospital-chargemaster: data/oshpd-ca/data-2019-2.tsv',
-  rawsize: 10996301, size: 10.49 MB, size_name: He Chomnk, url: 'https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/oshpd-ca/data-2019-2.tsv'}
-- {image: /assets/images/sizes/2.png, name: 'vsoch/hospital-chargemaster: data/oshpd-ca/data-latest-2.tsv',
-  rawsize: 10996301, size: 10.49 MB, size_name: He Chomnk, url: 'https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/oshpd-ca/data-latest-2.tsv'}
-- {image: /assets/images/sizes/2.png, name: 'vsoch/hospital-chargemaster: data/methodist-hospital-(san-antonio)/data-latest.tsv',
-  rawsize: 10784143, size: 10.28 MB, size_name: He Chomnk, url: 'https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/methodist-hospital-(san-antonio)/data-latest.tsv'}
-- {image: /assets/images/sizes/2.png, name: 'vsoch/hospital-chargemaster: data/methodist-hospital-(san-antonio)/data-2019.tsv',
-  rawsize: 10784143, size: 10.28 MB, size_name: He Chomnk, url: 'https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/methodist-hospital-(san-antonio)/data-2019.tsv'}
-- {image: /assets/images/sizes/1.png, name: 'vsoch/hospital-chargemaster-analysis:
-    chargemaster-subset.tsv', rawsize: 10784100, size: 10.28 MB, size_name: A Fine
-    Boi, url: 'https://github.com/vsoch/hospital-chargemaster-analysis/blob/d092c2ef7f03a05b7bf680760b96462c5dba7af6/chargemaster-subset.tsv'}
-- {image: /assets/images/sizes/1.png, name: 'vsoch/hospital-chargemaster: data/the-methodist-hospital-(houston)/data-2019-1.tsv',
-  rawsize: 10224729, size: 9.75 MB, size_name: A Fine Boi, url: 'https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/the-methodist-hospital-(houston)/data-2019-1.tsv'}
-- {image: /assets/images/sizes/1.png, name: 'vsoch/hospital-chargemaster: data/the-methodist-hospital-(houston)/data-latest-1.tsv',
-  rawsize: 10224729, size: 9.75 MB, size_name: A Fine Boi, url: 'https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/the-methodist-hospital-(houston)/data-latest-1.tsv'}
-- {image: /assets/images/sizes/1.png, name: 'vsoch/srcc-uservoice: topic_analysis.ipynb',
-  rawsize: 9610595, size: 9.17 MB, size_name: A Fine Boi, url: 'https://github.com/vsoch/srcc-uservoice/blob/2528cffebf96de3a915cf016a63a99d80a36dc12/topic_analysis.ipynb'}
-- {image: /assets/images/sizes/1.png, name: 'vsoch/caliper-analysis: .caliper/compiled/tests.json',
-  rawsize: 9382044, size: 8.95 MB, size_name: A Fine Boi, url: 'https://github.com/vsoch/caliper-analysis/blob/f38220dfb2dbd8c5dcbf2cd052a74e8a4b5e39d9/.caliper/compiled/tests.json'}
-- {image: /assets/images/sizes/1.png, name: 'vsoch/hospital-chargemaster: data/advent-health/data-2019.tsv',
-  rawsize: 8808696, size: 8.4 MB, size_name: A Fine Boi, url: 'https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/advent-health/data-2019.tsv'}
-- {image: /assets/images/sizes/1.png, name: 'vsoch/hospital-chargemaster: data/advent-health/data-latest.tsv',
-  rawsize: 8808696, size: 8.4 MB, size_name: A Fine Boi, url: 'https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/advent-health/data-latest.tsv'}
-- {image: /assets/images/sizes/1.png, name: 'vsoch/hospital-chargemaster: data/duke-university-hospital/data-2019.tsv',
-  rawsize: 6250950, size: 5.96 MB, size_name: A Fine Boi, url: 'https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/duke-university-hospital/data-2019.tsv'}
-- {image: /assets/images/sizes/1.png, name: 'vsoch/hospital-chargemaster: data/duke-university-hospital/data-latest.tsv',
-  rawsize: 6250950, size: 5.96 MB, size_name: A Fine Boi, url: 'https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/duke-university-hospital/data-latest.tsv'}
-- {image: /assets/images/sizes/1.png, name: 'vsoch/authorSynth: data/3000terms/features.txt',
-  rawsize: 6015082, size: 5.74 MB, size_name: A Fine Boi, url: 'https://github.com/vsoch/authorSynth/blob/b78c399e67fffeb3fc84a1b01a1eee6bf0c75f96/data/3000terms/features.txt'}
+- image: /assets/images/sizes/6.png
+  name: 'vsoch/vbmis.com: media/flash/paciencia.exe'
+  rawsize: 93631440
+  size: 89.29 MB
+  size_name: OH LAWD HE COMIN
+  url: https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/media/flash/paciencia.exe
+- image: /assets/images/sizes/6.png
+  name: 'vsoch/vbmis.com: media/flash/paciencia.swf'
+  rawsize: 92050371
+  size: 87.79 MB
+  size_name: OH LAWD HE COMIN
+  url: https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/media/flash/paciencia.swf
+- image: /assets/images/sizes/6.png
+  name: 'vsoch/natacha-bot: cv/word-rnn-trained.t7'
+  rawsize: 91059432
+  size: 86.84 MB
+  size_name: OH LAWD HE COMIN
+  url: https://github.com/vsoch/natacha-bot/blob/434781b92b7a2770b34ec265e14dbb089489bcd9/cv/word-rnn-trained.t7
+- image: /assets/images/sizes/6.png
+  name: 'vsoch/authorSynth: data/edist_scores_pAgF_cosSOM.Rda'
+  rawsize: 86769534
+  size: 82.75 MB
+  size_name: OH LAWD HE COMIN
+  url: https://github.com/vsoch/authorSynth/blob/b78c399e67fffeb3fc84a1b01a1eee6bf0c75f96/data/edist_scores_pAgF_cosSOM.Rda
+- image: /assets/images/sizes/6.png
+  name: 'vsoch/containers-story: assets/video/container-story-filtered.mp4'
+  rawsize: 85476921
+  size: 81.52 MB
+  size_name: OH LAWD HE COMIN
+  url: https://github.com/vsoch/containers-story/blob/f5198880854c9a11e89e499770b80887bb2c9da0/assets/video/container-story-filtered.mp4
+- image: /assets/images/sizes/6.png
+  name: 'vsoch/vsoch.github.io: assets/images/posts/schemaorg/extraction.gif'
+  rawsize: 77652618
+  size: 74.06 MB
+  size_name: OH LAWD HE COMIN
+  url: https://github.com/vsoch/vsoch.github.io/blob/785215215e30e479cca99920ef2cc83b9d16c685/assets/images/posts/schemaorg/extraction.gif
+- image: /assets/images/sizes/6.png
+  name: 'vsoch/MIRACLextra: ara/hist/ara_nissl_25um.nii.gz'
+  rawsize: 70638219
+  size: 67.37 MB
+  size_name: OH LAWD HE COMIN
+  url: https://github.com/vsoch/MIRACLextra/blob/c23c452c22ff9a3b5f45b061f98fc8ac38997a50/ara/hist/ara_nissl_25um.nii.gz
+- image: /assets/images/sizes/6.png
+  name: 'vsoch/vbmis.com: projects/nica/img/brain_template.psd'
+  rawsize: 66128415
+  size: 63.06 MB
+  size_name: OH LAWD HE COMIN
+  url: https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/projects/nica/img/brain_template.psd
+- image: /assets/images/sizes/6.png
+  name: 'vsoch/vbmis.com: media/flash/Maya.swf'
+  rawsize: 64702541
+  size: 61.71 MB
+  size_name: OH LAWD HE COMIN
+  url: https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/media/flash/Maya.swf
+- image: /assets/images/sizes/6.png
+  name: 'vsoch/dockerfile-packages: pypi-metadata-3-7-2019.pkl.tar.gz'
+  rawsize: 61022284
+  size: 58.2 MB
+  size_name: OH LAWD HE COMIN
+  url: https://github.com/vsoch/dockerfile-packages/blob/4bc789eebccea82eb6c594b429c042f592b82a90/pypi-metadata-3-7-2019.pkl.tar.gz
+- image: /assets/images/sizes/5.png
+  name: 'vsoch/containers-story: assets/video/container-story.mp4'
+  rawsize: 56946072
+  size: 54.31 MB
+  size_name: MEGA CHONKER
+  url: https://github.com/vsoch/containers-story/blob/f5198880854c9a11e89e499770b80887bb2c9da0/assets/video/container-story.mp4
+- image: /assets/images/sizes/5.png
+  name: 'vsoch/dockerfile-packages: pip-vectors.pkl'
+  rawsize: 56637924
+  size: 54.01 MB
+  size_name: MEGA CHONKER
+  url: https://github.com/vsoch/dockerfile-packages/blob/4bc789eebccea82eb6c594b429c042f592b82a90/pip-vectors.pkl
+- image: /assets/images/sizes/5.png
+  name: 'vsoch/BrainMessage: examples/secretMessage.zip'
+  rawsize: 52590502
+  size: 50.15 MB
+  size_name: MEGA CHONKER
+  url: https://github.com/vsoch/BrainMessage/blob/7084b967a72a3fbc8652664b56ea4c10ddbe036b/examples/secretMessage.zip
+- image: /assets/images/sizes/5.png
+  name: 'vsoch/BrainMessage: examples/decodeMe.zip'
+  rawsize: 52586745
+  size: 50.15 MB
+  size_name: MEGA CHONKER
+  url: https://github.com/vsoch/BrainMessage/blob/7084b967a72a3fbc8652664b56ea4c10ddbe036b/examples/decodeMe.zip
+- image: /assets/images/sizes/5.png
+  name: 'vsoch/BrainMessage: examples/bmi260.zip'
+  rawsize: 52583195
+  size: 50.15 MB
+  size_name: MEGA CHONKER
+  url: https://github.com/vsoch/BrainMessage/blob/7084b967a72a3fbc8652664b56ea4c10ddbe036b/examples/bmi260.zip
+- image: /assets/images/sizes/5.png
+  name: 'vsoch/noisecloud: mr/raw/TPM.nii'
+  rawsize: 50951032
+  size: 48.59 MB
+  size_name: MEGA CHONKER
+  url: https://github.com/vsoch/noisecloud/blob/b0a3001963b358b828cf13f3044a5556fa6941ec/mr/raw/TPM.nii
+- image: /assets/images/sizes/5.png
+  name: 'vsoch/snowstorm: img/surprise_large.mp4'
+  rawsize: 49737191
+  size: 47.43 MB
+  size_name: MEGA CHONKER
+  url: https://github.com/vsoch/snowstorm/blob/a712be9385164c3882a828b2459a6d2dcd13e4af/img/surprise_large.mp4
+- image: /assets/images/sizes/5.png
+  name: 'vsoch/mpileup: data/test.bam'
+  rawsize: 49731375
+  size: 47.43 MB
+  size_name: MEGA CHONKER
+  url: https://github.com/vsoch/mpileup/blob/50b7f3980ce2aeecd9b88d39b0d2a33fc9304d0c/data/test.bam
+- image: /assets/images/sizes/5.png
+  name: 'vsoch/natacha-bot: cv/char-rnn-trained.t7'
+  rawsize: 45894114
+  size: 43.77 MB
+  size_name: MEGA CHONKER
+  url: https://github.com/vsoch/natacha-bot/blob/434781b92b7a2770b34ec265e14dbb089489bcd9/cv/char-rnn-trained.t7
+- image: /assets/images/sizes/5.png
+  name: 'vsoch/wiki: long/WFU_PickAtlas_3.0.zip'
+  rawsize: 44692860
+  size: 42.62 MB
+  size_name: MEGA CHONKER
+  url: https://github.com/vsoch/wiki/blob/b48b6089b0d74af014321e2f884d5a4371c8c2b2/long/WFU_PickAtlas_3.0.zip
+- image: /assets/images/sizes/4.png
+  name: 'vsoch/wiki: long/pictures/halloween 041.avi'
+  rawsize: 42590782
+  size: 40.62 MB
+  size_name: HEFTYCHONK
+  url: https://github.com/vsoch/wiki/blob/b48b6089b0d74af014321e2f884d5a4371c8c2b2/long/pictures/halloween%20041.avi
+- image: /assets/images/sizes/4.png
+  name: 'vsoch/repofish: analysis/models/method_vectors_similarity.pdf'
+  rawsize: 41133788
+  size: 39.23 MB
+  size_name: HEFTYCHONK
+  url: https://github.com/vsoch/repofish/blob/88b2536ca8c4d7bad22bbb867912dcec5aaf2b6b/analysis/models/method_vectors_similarity.pdf
+- image: /assets/images/sizes/4.png
+  name: 'vsoch/matlab-duke: Matrix/TEST.mat'
+  rawsize: 40218624
+  size: 38.36 MB
+  size_name: HEFTYCHONK
+  url: https://github.com/vsoch/matlab-duke/blob/99a5fb745c0a1dbcfbe6b639c28c18b1c6bd9f66/Matrix/TEST.mat
+- image: /assets/images/sizes/4.png
+  name: 'vsoch/zenodo-ml: records.pkl'
+  rawsize: 39397502
+  size: 37.57 MB
+  size_name: HEFTYCHONK
+  url: https://github.com/vsoch/zenodo-ml/blob/28f59cd190a5fa449fb16627f2373fb41a42f395/records.pkl
+- image: /assets/images/sizes/4.png
+  name: 'vsoch/matlab-duke: Matrix/040526133543_gm.mat'
+  rawsize: 39227392
+  size: 37.41 MB
+  size_name: HEFTYCHONK
+  url: https://github.com/vsoch/matlab-duke/blob/99a5fb745c0a1dbcfbe6b639c28c18b1c6bd9f66/Matrix/040526133543_gm.mat
+- image: /assets/images/sizes/4.png
+  name: 'vsoch/hospital-chargemaster-analysis: vectorizer-X.pkl'
+  rawsize: 38873360
+  size: 37.07 MB
+  size_name: HEFTYCHONK
+  url: https://github.com/vsoch/hospital-chargemaster-analysis/blob/d092c2ef7f03a05b7bf680760b96462c5dba7af6/vectorizer-X.pkl
+- image: /assets/images/sizes/4.png
+  name: 'vsoch/hospital-chargemaster: data/oshpd-ca/2019-01-17/106301279_CDM_2018.xlsx'
+  rawsize: 37868957
+  size: 36.11 MB
+  size_name: HEFTYCHONK
+  url: https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/oshpd-ca/2019-01-17/106301279_CDM_2018.xlsx
+- image: /assets/images/sizes/4.png
+  name: 'vsoch/hospital-chargemaster: data/uc-irvine-medical-center/latest/106301279-cdm-2018.xlsx'
+  rawsize: 37868957
+  size: 36.11 MB
+  size_name: HEFTYCHONK
+  url: https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/uc-irvine-medical-center/latest/106301279-cdm-2018.xlsx
+- image: /assets/images/sizes/4.png
+  name: 'vsoch/hospital-chargemaster: data/oshpd-ca/latest/106301279_CDM_2018.xlsx'
+  rawsize: 37868957
+  size: 36.11 MB
+  size_name: HEFTYCHONK
+  url: https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/oshpd-ca/latest/106301279_CDM_2018.xlsx
+- image: /assets/images/sizes/4.png
+  name: 'vsoch/hospital-chargemaster: data/uc-irvine-medical-center/2019-01-19/106301279-cdm-2018.xlsx'
+  rawsize: 37868957
+  size: 36.11 MB
+  size_name: HEFTYCHONK
+  url: https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/uc-irvine-medical-center/2019-01-19/106301279-cdm-2018.xlsx
+- image: /assets/images/sizes/3.png
+  name: 'vsoch/vbmis.com: media/flash/surgerythree.exe'
+  rawsize: 37427035
+  size: 35.69 MB
+  size_name: A Heckin' Chonker
+  url: https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/media/flash/surgerythree.exe
+- image: /assets/images/sizes/3.png
+  name: 'vsoch/vbmis.com: media/flash/Surgery_Postcard.swf'
+  rawsize: 37330514
+  size: 35.6 MB
+  size_name: A Heckin' Chonker
+  url: https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/media/flash/Surgery_Postcard.swf
+- image: /assets/images/sizes/3.png
+  name: 'vsoch/vbmis.com: graphics/LONG/Logo and Design/desktops.psd'
+  rawsize: 36620492
+  size: 34.92 MB
+  size_name: A Heckin' Chonker
+  url: https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/graphics/LONG/Logo%20and%20Design/desktops.psd
+- image: /assets/images/sizes/3.png
+  name: 'vsoch/vbmis.com: media/flash/Postcard2.swf'
+  rawsize: 36136024
+  size: 34.46 MB
+  size_name: A Heckin' Chonker
+  url: https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/media/flash/Postcard2.swf
+- image: /assets/images/sizes/3.png
+  name: 'vsoch/vbmis.com: media/flash/surgerythree.swf'
+  rawsize: 35845971
+  size: 34.19 MB
+  size_name: A Heckin' Chonker
+  url: https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/media/flash/surgerythree.swf
+- image: /assets/images/sizes/3.png
+  name: 'vsoch/wiki: long/install/xwin32.zip'
+  rawsize: 35656145
+  size: 34.0 MB
+  size_name: A Heckin' Chonker
+  url: https://github.com/vsoch/wiki/blob/b48b6089b0d74af014321e2f884d5a4371c8c2b2/long/install/xwin32.zip
+- image: /assets/images/sizes/3.png
+  name: 'vsoch/wiki: long/install/Cogent2000v1.zip'
+  rawsize: 32894750
+  size: 31.37 MB
+  size_name: A Heckin' Chonker
+  url: https://github.com/vsoch/wiki/blob/b48b6089b0d74af014321e2f884d5a4371c8c2b2/long/install/Cogent2000v1.zip
+- image: /assets/images/sizes/3.png
+  name: 'vsoch/vbmis.com: graphics/LONG/Flyers and Forms/BRAIN_v3.psd'
+  rawsize: 32710317
+  size: 31.19 MB
+  size_name: A Heckin' Chonker
+  url: https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/graphics/LONG/Flyers%20and%20Forms/BRAIN_v3.psd
+- image: /assets/images/sizes/3.png
+  name: 'vsoch/MIRACLextra: ara/template/average_template_25um_OBmasked.nii.gz'
+  rawsize: 32062807
+  size: 30.58 MB
+  size_name: A Heckin' Chonker
+  url: https://github.com/vsoch/MIRACLextra/blob/c23c452c22ff9a3b5f45b061f98fc8ac38997a50/ara/template/average_template_25um_OBmasked.nii.gz
+- image: /assets/images/sizes/3.png
+  name: 'vsoch/vbmis.com: graphics/LONG/Flyers and Forms/BRAIN.psd'
+  rawsize: 30897014
+  size: 29.47 MB
+  size_name: A Heckin' Chonker
+  url: https://github.com/vsoch/vbmis.com/blob/b66f6af437498a97a245002d73a2e33417fe9b83/graphics/LONG/Flyers%20and%20Forms/BRAIN.psd
+- image: /assets/images/sizes/2.png
+  name: 'vsoch/wiki: long/CLINIC.zip'
+  rawsize: 30852371
+  size: 29.42 MB
+  size_name: He Chomnk
+  url: https://github.com/vsoch/wiki/blob/b48b6089b0d74af014321e2f884d5a4371c8c2b2/long/CLINIC.zip
+- image: /assets/images/sizes/2.png
+  name: 'vsoch/cogatvoxel: data/regression_params.pkl'
+  rawsize: 30379867
+  size: 28.97 MB
+  size_name: He Chomnk
+  url: https://github.com/vsoch/cogatvoxel/blob/59b2db99c2fe7187bf3b0883d49f7435389cbf6e/data/regression_params.pkl
+- image: /assets/images/sizes/2.png
+  name: 'vsoch/cogat_voxel: data/regression_params.pkl'
+  rawsize: 30379867
+  size: 28.97 MB
+  size_name: He Chomnk
+  url: https://github.com/vsoch/cogat_voxel/blob/21f3115048637da59b4b307caa9633823eceb124/data/regression_params.pkl
+- image: /assets/images/sizes/2.png
+  name: 'vsoch/cogatcloud: data/regression_params.pkl'
+  rawsize: 30379867
+  size: 28.97 MB
+  size_name: He Chomnk
+  url: https://github.com/vsoch/cogatcloud/blob/fd4f51a2887792faf835de2bf72a7f6b73ff3c19/data/regression_params.pkl
+- image: /assets/images/sizes/2.png
+  name: 'vsoch/hospital-chargemaster: data/oshpd-ca/data-latest-1.tsv'
+  rawsize: 12275977
+  size: 11.71 MB
+  size_name: He Chomnk
+  url: https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/oshpd-ca/data-latest-1.tsv
+- image: /assets/images/sizes/2.png
+  name: 'vsoch/hospital-chargemaster: data/oshpd-ca/data-2019-1.tsv'
+  rawsize: 12275977
+  size: 11.71 MB
+  size_name: He Chomnk
+  url: https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/oshpd-ca/data-2019-1.tsv
+- image: /assets/images/sizes/2.png
+  name: 'vsoch/hospital-chargemaster: data/oshpd-ca/data-2019-2.tsv'
+  rawsize: 10996301
+  size: 10.49 MB
+  size_name: He Chomnk
+  url: https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/oshpd-ca/data-2019-2.tsv
+- image: /assets/images/sizes/2.png
+  name: 'vsoch/hospital-chargemaster: data/oshpd-ca/data-latest-2.tsv'
+  rawsize: 10996301
+  size: 10.49 MB
+  size_name: He Chomnk
+  url: https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/oshpd-ca/data-latest-2.tsv
+- image: /assets/images/sizes/2.png
+  name: 'vsoch/hospital-chargemaster: data/methodist-hospital-(san-antonio)/data-latest.tsv'
+  rawsize: 10784143
+  size: 10.28 MB
+  size_name: He Chomnk
+  url: https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/methodist-hospital-(san-antonio)/data-latest.tsv
+- image: /assets/images/sizes/2.png
+  name: 'vsoch/hospital-chargemaster: data/methodist-hospital-(san-antonio)/data-2019.tsv'
+  rawsize: 10784143
+  size: 10.28 MB
+  size_name: He Chomnk
+  url: https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/methodist-hospital-(san-antonio)/data-2019.tsv
+- image: /assets/images/sizes/1.png
+  name: 'vsoch/hospital-chargemaster-analysis: chargemaster-subset.tsv'
+  rawsize: 10784100
+  size: 10.28 MB
+  size_name: A Fine Boi
+  url: https://github.com/vsoch/hospital-chargemaster-analysis/blob/d092c2ef7f03a05b7bf680760b96462c5dba7af6/chargemaster-subset.tsv
+- image: /assets/images/sizes/1.png
+  name: 'vsoch/hospital-chargemaster: data/the-methodist-hospital-(houston)/data-2019-1.tsv'
+  rawsize: 10224729
+  size: 9.75 MB
+  size_name: A Fine Boi
+  url: https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/the-methodist-hospital-(houston)/data-2019-1.tsv
+- image: /assets/images/sizes/1.png
+  name: 'vsoch/hospital-chargemaster: data/the-methodist-hospital-(houston)/data-latest-1.tsv'
+  rawsize: 10224729
+  size: 9.75 MB
+  size_name: A Fine Boi
+  url: https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/the-methodist-hospital-(houston)/data-latest-1.tsv
+- image: /assets/images/sizes/1.png
+  name: 'vsoch/srcc-uservoice: topic_analysis.ipynb'
+  rawsize: 9610595
+  size: 9.17 MB
+  size_name: A Fine Boi
+  url: https://github.com/vsoch/srcc-uservoice/blob/2528cffebf96de3a915cf016a63a99d80a36dc12/topic_analysis.ipynb
+- image: /assets/images/sizes/1.png
+  name: 'vsoch/caliper-analysis: .caliper/compiled/tests.json'
+  rawsize: 9382044
+  size: 8.95 MB
+  size_name: A Fine Boi
+  url: https://github.com/vsoch/caliper-analysis/blob/f38220dfb2dbd8c5dcbf2cd052a74e8a4b5e39d9/.caliper/compiled/tests.json
+- image: /assets/images/sizes/1.png
+  name: 'vsoch/hospital-chargemaster: data/advent-health/data-2019.tsv'
+  rawsize: 8808696
+  size: 8.4 MB
+  size_name: A Fine Boi
+  url: https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/advent-health/data-2019.tsv
+- image: /assets/images/sizes/1.png
+  name: 'vsoch/hospital-chargemaster: data/advent-health/data-latest.tsv'
+  rawsize: 8808696
+  size: 8.4 MB
+  size_name: A Fine Boi
+  url: https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/advent-health/data-latest.tsv
+- image: /assets/images/sizes/1.png
+  name: 'vsoch/hospital-chargemaster: data/duke-university-hospital/data-2019.tsv'
+  rawsize: 6250950
+  size: 5.96 MB
+  size_name: A Fine Boi
+  url: https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/duke-university-hospital/data-2019.tsv
+- image: /assets/images/sizes/1.png
+  name: 'vsoch/hospital-chargemaster: data/duke-university-hospital/data-latest.tsv'
+  rawsize: 6250950
+  size: 5.96 MB
+  size_name: A Fine Boi
+  url: https://github.com/vsoch/hospital-chargemaster/blob/b3473c798fd2f343f7f02c1e32496f9eea9fa94d/data/duke-university-hospital/data-latest.tsv
+- image: /assets/images/sizes/1.png
+  name: 'vsoch/authorSynth: data/3000terms/features.txt'
+  rawsize: 6015082
+  size: 5.74 MB
+  size_name: A Fine Boi
+  url: https://github.com/vsoch/authorSynth/blob/b78c399e67fffeb3fc84a1b01a1eee6bf0c75f96/data/3000terms/features.txt
