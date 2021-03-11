@@ -594,6 +594,24 @@ chonkers:
   url: https://github.com/vsoch/snakemake-wrappers
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2020-12-20T21:32:28Z'
+  default_branch: main
+  forks: 0
+  homepage: null
+  html_url: https://github.com/vsoch/caliper-metrics
+  image: /assets/images/sizes/3.png
+  language: null
+  name: vsoch/caliper-metrics
+  open_issues_count: 1
+  owner: vsoch
+  rawsize: 128314
+  size: 128.31 MB
+  size_name: A Heckin' Chonker
+  stargazer_count: null
+  updated_at: '2021-03-10T02:03:57Z'
+  url: https://github.com/vsoch/caliper-metrics
+  watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2020-11-23T06:57:51Z'
   default_branch: main
   forks: 0
@@ -611,24 +629,6 @@ chonkers:
   updated_at: '2020-11-24T18:55:51Z'
   url: https://github.com/vsoch/containers-story
   watchers_count: 1
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2020-12-20T21:32:28Z'
-  default_branch: main
-  forks: 0
-  homepage: null
-  html_url: https://github.com/vsoch/caliper-metrics
-  image: /assets/images/sizes/3.png
-  language: null
-  name: vsoch/caliper-metrics
-  open_issues_count: 1
-  owner: vsoch
-  rawsize: 125178
-  size: 125.18 MB
-  size_name: A Heckin' Chonker
-  stargazer_count: null
-  updated_at: '2021-03-09T04:46:52Z'
-  url: https://github.com/vsoch/caliper-metrics
-  watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2019-01-20T20:58:18Z'
   default_branch: master
@@ -694,8 +694,8 @@ chonkers:
   name: vsoch/spack
   open_issues_count: 1
   owner: vsoch
-  rawsize: 111205
-  size: 111.2 MB
+  rawsize: 111249
+  size: 111.25 MB
   size_name: A Heckin' Chonker
   stargazer_count: null
   updated_at: '2021-02-12T21:57:19Z'
