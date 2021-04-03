@@ -540,6 +540,24 @@ chonkers:
   url: https://github.com/vsoch/atac-seq-pipeline
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2020-12-20T21:32:28Z'
+  default_branch: main
+  forks: 0
+  homepage: null
+  html_url: https://github.com/vsoch/caliper-metrics
+  image: /assets/images/sizes/3.png
+  language: null
+  name: vsoch/caliper-metrics
+  open_issues_count: 1
+  owner: vsoch
+  rawsize: 152696
+  size: 152.7 MB
+  size_name: A Heckin' Chonker
+  stargazer_count: null
+  updated_at: '2021-04-02T02:05:11Z'
+  url: https://github.com/vsoch/caliper-metrics
+  watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2018-11-17T13:44:43Z'
   default_branch: master
   forks: 0
@@ -557,24 +575,6 @@ chonkers:
   updated_at: '2019-06-21T03:14:06Z'
   url: https://github.com/vsoch/arxiv-equations
   watchers_count: 2
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2020-12-20T21:32:28Z'
-  default_branch: main
-  forks: 0
-  homepage: null
-  html_url: https://github.com/vsoch/caliper-metrics
-  image: /assets/images/sizes/3.png
-  language: null
-  name: vsoch/caliper-metrics
-  open_issues_count: 1
-  owner: vsoch
-  rawsize: 151146
-  size: 151.15 MB
-  size_name: A Heckin' Chonker
-  stargazer_count: null
-  updated_at: '2021-04-01T05:08:06Z'
-  url: https://github.com/vsoch/caliper-metrics
-  watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2021-03-11T20:00:16Z'
   default_branch: main
