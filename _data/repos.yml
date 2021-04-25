@@ -194,9 +194,9 @@ chonkers:
   size: 495.16 MB
   size_name: MEGA CHONKER
   stargazer_count: null
-  updated_at: '2021-03-23T02:32:23Z'
+  updated_at: '2021-04-24T13:26:24Z'
   url: https://github.com/vsoch/hospital-chargemaster
-  watchers_count: 27
+  watchers_count: 28
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2020-10-21T22:22:30Z'
   default_branch: master
@@ -406,11 +406,11 @@ chonkers:
   name: vsoch/caliper-metrics
   open_issues_count: 1
   owner: vsoch
-  rawsize: 205134
-  size: 205.13 MB
+  rawsize: 206133
+  size: 206.13 MB
   size_name: HEFTYCHONK
   stargazer_count: null
-  updated_at: '2021-04-23T04:38:22Z'
+  updated_at: '2021-04-24T02:01:49Z'
   url: https://github.com/vsoch/caliper-metrics
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
@@ -422,15 +422,15 @@ chonkers:
   image: /assets/images/sizes/4.png
   language: JavaScript
   name: vsoch/vsoch.github.io
-  open_issues_count: 8
+  open_issues_count: 9
   owner: vsoch
-  rawsize: 192114
-  size: 192.11 MB
+  rawsize: 192115
+  size: 192.12 MB
   size_name: HEFTYCHONK
   stargazer_count: null
-  updated_at: '2021-04-11T16:53:03Z'
+  updated_at: '2021-04-24T20:37:05Z'
   url: https://github.com/vsoch/vsoch.github.io
-  watchers_count: 7
+  watchers_count: 8
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2018-10-12T20:07:21Z'
   default_branch: master
@@ -712,7 +712,7 @@ chonkers:
   name: vsoch/spack
   open_issues_count: 2
   owner: vsoch
-  rawsize: 115533
+  rawsize: 115535
   size: 115.53 MB
   size_name: A Heckin' Chonker
   stargazer_count: null
