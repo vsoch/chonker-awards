@@ -406,11 +406,11 @@ chonkers:
   name: vsoch/caliper-metrics
   open_issues_count: 1
   owner: vsoch
-  rawsize: 206161
-  size: 206.16 MB
+  rawsize: 206356
+  size: 206.36 MB
   size_name: HEFTYCHONK
   stargazer_count: null
-  updated_at: '2021-04-25T04:27:56Z'
+  updated_at: '2021-04-26T02:00:12Z'
   url: https://github.com/vsoch/caliper-metrics
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
@@ -428,7 +428,7 @@ chonkers:
   size: 192.12 MB
   size_name: HEFTYCHONK
   stargazer_count: null
-  updated_at: '2021-04-24T20:37:05Z'
+  updated_at: '2021-04-27T00:48:52Z'
   url: https://github.com/vsoch/vsoch.github.io
   watchers_count: 8
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
@@ -712,8 +712,8 @@ chonkers:
   name: vsoch/spack
   open_issues_count: 2
   owner: vsoch
-  rawsize: 115535
-  size: 115.53 MB
+  rawsize: 115193
+  size: 115.19 MB
   size_name: A Heckin' Chonker
   stargazer_count: null
   updated_at: '2021-04-20T19:39:12Z'
