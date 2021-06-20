@@ -324,6 +324,24 @@ chonkers:
   url: https://github.com/vsoch/natacha-bot
   watchers_count: 3
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2020-12-20T21:32:28Z'
+  default_branch: main
+  forks: 0
+  homepage: null
+  html_url: https://github.com/vsoch/caliper-metrics
+  image: /assets/images/sizes/5.png
+  language: null
+  name: vsoch/caliper-metrics
+  open_issues_count: 1
+  owner: vsoch
+  rawsize: 326508
+  size: 326.51 MB
+  size_name: MEGA CHONKER
+  stargazer_count: null
+  updated_at: '2021-06-19T03:03:28Z'
+  url: https://github.com/vsoch/caliper-metrics
+  watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2016-08-07T21:52:39Z'
   default_branch: master
   forks: 1
@@ -347,35 +365,17 @@ chonkers:
   forks: 2
   homepage: http://www.vbmis.com/bmi/authorSynth
   html_url: https://github.com/vsoch/authorSynth
-  image: /assets/images/sizes/5.png
+  image: /assets/images/sizes/4.png
   language: R
   name: vsoch/authorSynth
   open_issues_count: 0
   owner: vsoch
   rawsize: 290771
   size: 290.77 MB
-  size_name: MEGA CHONKER
+  size_name: HEFTYCHONK
   stargazer_count: null
   updated_at: '2018-12-20T16:33:28Z'
   url: https://github.com/vsoch/authorSynth
-  watchers_count: 0
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2020-12-20T21:32:28Z'
-  default_branch: main
-  forks: 0
-  homepage: null
-  html_url: https://github.com/vsoch/caliper-metrics
-  image: /assets/images/sizes/4.png
-  language: null
-  name: vsoch/caliper-metrics
-  open_issues_count: 1
-  owner: vsoch
-  rawsize: 286572
-  size: 286.57 MB
-  size_name: HEFTYCHONK
-  stargazer_count: null
-  updated_at: '2021-06-18T06:29:02Z'
-  url: https://github.com/vsoch/caliper-metrics
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2019-07-08T20:08:55Z'
@@ -424,11 +424,11 @@ chonkers:
   name: vsoch/vsoch.github.io
   open_issues_count: 9
   owner: vsoch
-  rawsize: 192192
-  size: 192.19 MB
+  rawsize: 192248
+  size: 192.25 MB
   size_name: HEFTYCHONK
   stargazer_count: null
-  updated_at: '2021-06-01T04:04:20Z'
+  updated_at: '2021-06-19T16:41:26Z'
   url: https://github.com/vsoch/vsoch.github.io
   watchers_count: 8
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
