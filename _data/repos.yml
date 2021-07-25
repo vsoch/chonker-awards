@@ -280,11 +280,11 @@ chonkers:
   name: vsoch/caliper-metrics
   open_issues_count: 1
   owner: vsoch
-  rawsize: 388545
-  size: 388.55 MB
+  rawsize: 390302
+  size: 390.3 MB
   size_name: MEGA CHONKER
   stargazer_count: null
-  updated_at: '2021-07-23T02:58:55Z'
+  updated_at: '2021-07-24T06:01:07Z'
   url: https://github.com/vsoch/caliper-metrics
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
@@ -684,6 +684,24 @@ chonkers:
   url: https://github.com/vsoch/wgbs-pipeline
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2020-12-10T19:48:39Z'
+  default_branch: develop
+  forks: 2
+  homepage: https://spack.io
+  html_url: https://github.com/vsoch/spack
+  image: /assets/images/sizes/3.png
+  language: Python
+  name: vsoch/spack
+  open_issues_count: 12
+  owner: vsoch
+  rawsize: 121946
+  size: 121.95 MB
+  size_name: A Heckin' Chonker
+  stargazer_count: null
+  updated_at: '2021-07-10T18:36:02Z'
+  url: https://github.com/vsoch/spack
+  watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2018-10-07T03:37:10Z'
   default_branch: master
   forks: 0
@@ -700,24 +718,6 @@ chonkers:
   stargazer_count: null
   updated_at: '2018-12-20T16:33:30Z'
   url: https://github.com/vsoch/presentation-template
-  watchers_count: 0
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2020-12-10T19:48:39Z'
-  default_branch: develop
-  forks: 2
-  homepage: https://spack.io
-  html_url: https://github.com/vsoch/spack
-  image: /assets/images/sizes/3.png
-  language: Python
-  name: vsoch/spack
-  open_issues_count: 12
-  owner: vsoch
-  rawsize: 120910
-  size: 120.91 MB
-  size_name: A Heckin' Chonker
-  stargazer_count: null
-  updated_at: '2021-07-10T18:36:02Z'
-  url: https://github.com/vsoch/spack
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2016-01-09T01:53:47Z'
