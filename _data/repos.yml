@@ -244,11 +244,11 @@ chonkers:
   name: vsoch/caliper-metrics
   open_issues_count: 1
   owner: vsoch
-  rawsize: 435208
-  size: 435.21 MB
+  rawsize: 435899
+  size: 435.9 MB
   size_name: MEGA CHONKER
   stargazer_count: null
-  updated_at: '2021-08-01T06:44:25Z'
+  updated_at: '2021-08-02T02:59:17Z'
   url: https://github.com/vsoch/caliper-metrics
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
@@ -594,6 +594,24 @@ chonkers:
   url: https://github.com/vsoch/spack-changes
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2019-01-24T22:20:56Z'
+  default_branch: master
+  forks: 0
+  homepage: https://cloud.google.com/community
+  html_url: https://github.com/vsoch/google-cloud-community
+  image: /assets/images/sizes/3.png
+  language: Java
+  name: vsoch/google-cloud-community
+  open_issues_count: 0
+  owner: vsoch
+  rawsize: 131119
+  size: 131.12 MB
+  size_name: A Heckin' Chonker
+  stargazer_count: null
+  updated_at: '2019-01-24T22:32:45Z'
+  url: https://github.com/vsoch/google-cloud-community
+  watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2016-10-04T23:17:42Z'
   default_branch: master
   forks: 0
@@ -707,14 +725,14 @@ chonkers:
   forks: 0
   homepage: null
   html_url: https://github.com/vsoch/presentation-template
-  image: /assets/images/sizes/3.png
+  image: /assets/images/sizes/2.png
   language: TeX
   name: vsoch/presentation-template
   open_issues_count: 0
   owner: vsoch
   rawsize: 121937
   size: 121.94 MB
-  size_name: A Heckin' Chonker
+  size_name: He Chomnk
   stargazer_count: null
   updated_at: '2018-12-20T16:33:30Z'
   url: https://github.com/vsoch/presentation-template
@@ -887,14 +905,14 @@ chonkers:
   forks: 0
   homepage: null
   html_url: https://github.com/vsoch/virtual-scanner
-  image: /assets/images/sizes/2.png
+  image: /assets/images/sizes/1.png
   language: null
   name: vsoch/virtual-scanner
   open_issues_count: 0
   owner: vsoch
   rawsize: 86252
   size: 86.25 MB
-  size_name: He Chomnk
+  size_name: A Fine Boi
   stargazer_count: null
   updated_at: '2019-09-11T12:56:41Z'
   url: https://github.com/vsoch/virtual-scanner
@@ -1060,22 +1078,4 @@ chonkers:
   stargazer_count: null
   updated_at: '2018-12-20T16:33:29Z'
   url: https://github.com/vsoch/dataverse
-  watchers_count: 0
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2018-08-27T18:12:40Z'
-  default_branch: develop
-  forks: 0
-  homepage: https://ivmartel.github.io/dwv/
-  html_url: https://github.com/vsoch/dwv
-  image: /assets/images/sizes/1.png
-  language: JavaScript
-  name: vsoch/dwv
-  open_issues_count: 0
-  owner: vsoch
-  rawsize: 63932
-  size: 63.93 MB
-  size_name: A Fine Boi
-  stargazer_count: null
-  updated_at: '2018-12-20T16:33:29Z'
-  url: https://github.com/vsoch/dwv
   watchers_count: 0
