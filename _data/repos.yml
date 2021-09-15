@@ -172,11 +172,11 @@ chonkers:
   name: vsoch/caliper-metrics
   open_issues_count: 1
   owner: vsoch
-  rawsize: 509793
-  size: 509.79 MB
+  rawsize: 512075
+  size: 512.08 MB
   size_name: OH LAWD HE COMIN
   stargazer_count: null
-  updated_at: '2021-09-13T02:44:56Z'
+  updated_at: '2021-09-14T06:54:10Z'
   url: https://github.com/vsoch/caliper-metrics
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
@@ -414,6 +414,24 @@ chonkers:
   url: https://github.com/vsoch/libabigail
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2021-09-14T01:30:54Z'
+  default_branch: master
+  forks: 0
+  homepage: https://golang.org
+  html_url: https://github.com/vsoch/go
+  image: /assets/images/sizes/4.png
+  language: null
+  name: vsoch/go
+  open_issues_count: 0
+  owner: vsoch
+  rawsize: 271883
+  size: 271.88 MB
+  size_name: HEFTYCHONK
+  stargazer_count: null
+  updated_at: '2021-09-14T01:30:56Z'
+  url: https://github.com/vsoch/go
+  watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2015-09-03T20:06:16Z'
   default_branch: master
   forks: 4
@@ -527,14 +545,14 @@ chonkers:
   forks: 0
   homepage: http://runestoneinteractive.org
   html_url: https://github.com/vsoch/RunestoneServer
-  image: /assets/images/sizes/4.png
+  image: /assets/images/sizes/3.png
   language: Python
   name: vsoch/RunestoneServer
   open_issues_count: 0
   owner: vsoch
   rawsize: 167953
   size: 167.95 MB
-  size_name: HEFTYCHONK
+  size_name: A Heckin' Chonker
   stargazer_count: null
   updated_at: '2019-04-26T21:52:01Z'
   url: https://github.com/vsoch/RunestoneServer
@@ -648,6 +666,24 @@ chonkers:
   url: https://github.com/vsoch/snakemake-wrappers
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2020-12-10T19:48:39Z'
+  default_branch: develop
+  forks: 2
+  homepage: https://spack.io
+  html_url: https://github.com/vsoch/spack
+  image: /assets/images/sizes/3.png
+  language: Python
+  name: vsoch/spack
+  open_issues_count: 12
+  owner: vsoch
+  rawsize: 127492
+  size: 127.49 MB
+  size_name: A Heckin' Chonker
+  stargazer_count: null
+  updated_at: '2021-07-10T18:36:02Z'
+  url: https://github.com/vsoch/spack
+  watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2020-11-23T06:57:51Z'
   default_branch: main
   forks: 0
@@ -665,24 +701,6 @@ chonkers:
   updated_at: '2020-11-24T18:55:51Z'
   url: https://github.com/vsoch/containers-story
   watchers_count: 1
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2020-12-10T19:48:39Z'
-  default_branch: develop
-  forks: 2
-  homepage: https://spack.io
-  html_url: https://github.com/vsoch/spack
-  image: /assets/images/sizes/3.png
-  language: Python
-  name: vsoch/spack
-  open_issues_count: 12
-  owner: vsoch
-  rawsize: 124880
-  size: 124.88 MB
-  size_name: A Heckin' Chonker
-  stargazer_count: null
-  updated_at: '2021-07-10T18:36:02Z'
-  url: https://github.com/vsoch/spack
-  watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2019-01-20T20:58:18Z'
   default_branch: master
@@ -707,14 +725,14 @@ chonkers:
   forks: 0
   homepage: null
   html_url: https://github.com/vsoch/wgbs-pipeline
-  image: /assets/images/sizes/3.png
+  image: /assets/images/sizes/2.png
   language: wdl
   name: vsoch/wgbs-pipeline
   open_issues_count: 1
   owner: vsoch
   rawsize: 122861
   size: 122.86 MB
-  size_name: A Heckin' Chonker
+  size_name: He Chomnk
   stargazer_count: null
   updated_at: '2018-12-20T16:33:30Z'
   url: https://github.com/vsoch/wgbs-pipeline
@@ -887,14 +905,14 @@ chonkers:
   forks: 0
   homepage: https://snakemake.readthedocs.io
   html_url: https://github.com/vsoch/snakemake
-  image: /assets/images/sizes/2.png
+  image: /assets/images/sizes/1.png
   language: HTML
   name: vsoch/snakemake
   open_issues_count: 0
   owner: vsoch
   rawsize: 87493
   size: 87.49 MB
-  size_name: He Chomnk
+  size_name: A Fine Boi
   stargazer_count: null
   updated_at: '2020-04-23T10:59:11Z'
   url: https://github.com/vsoch/snakemake
@@ -1060,22 +1078,4 @@ chonkers:
   stargazer_count: null
   updated_at: '2018-12-20T16:33:30Z'
   url: https://github.com/vsoch/snowstorm
-  watchers_count: 0
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2018-05-25T22:13:47Z'
-  default_branch: develop
-  forks: 0
-  homepage: http://dataverse.org
-  html_url: https://github.com/vsoch/dataverse
-  image: /assets/images/sizes/1.png
-  language: Java
-  name: vsoch/dataverse
-  open_issues_count: 0
-  owner: vsoch
-  rawsize: 65599
-  size: 65.6 MB
-  size_name: A Fine Boi
-  stargazer_count: null
-  updated_at: '2018-12-20T16:33:29Z'
-  url: https://github.com/vsoch/dataverse
   watchers_count: 0
