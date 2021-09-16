@@ -172,11 +172,11 @@ chonkers:
   name: vsoch/caliper-metrics
   open_issues_count: 1
   owner: vsoch
-  rawsize: 512075
-  size: 512.08 MB
+  rawsize: 512547
+  size: 512.55 MB
   size_name: OH LAWD HE COMIN
   stargazer_count: null
-  updated_at: '2021-09-14T06:54:10Z'
+  updated_at: '2021-09-15T02:29:00Z'
   url: https://github.com/vsoch/caliper-metrics
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
@@ -860,9 +860,9 @@ chonkers:
   size: 100.37 MB
   size_name: He Chomnk
   stargazer_count: null
-  updated_at: '2018-12-20T16:33:30Z'
+  updated_at: '2021-09-15T09:40:06Z'
   url: https://github.com/vsoch/pybraincompare
-  watchers_count: 15
+  watchers_count: 16
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2019-10-21T17:15:01Z'
   default_branch: master
