@@ -172,11 +172,11 @@ chonkers:
   name: vsoch/caliper-metrics
   open_issues_count: 1
   owner: vsoch
-  rawsize: 517145
-  size: 517.14 MB
+  rawsize: 523581
+  size: 523.58 MB
   size_name: OH LAWD HE COMIN
   stargazer_count: null
-  updated_at: '2021-09-17T02:35:03Z'
+  updated_at: '2021-09-18T06:17:17Z'
   url: https://github.com/vsoch/caliper-metrics
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
@@ -676,8 +676,8 @@ chonkers:
   name: vsoch/spack
   open_issues_count: 12
   owner: vsoch
-  rawsize: 128211
-  size: 128.21 MB
+  rawsize: 128107
+  size: 128.11 MB
   size_name: A Heckin' Chonker
   stargazer_count: null
   updated_at: '2021-07-10T18:36:02Z'
