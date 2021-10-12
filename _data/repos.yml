@@ -128,7 +128,7 @@ chonkers:
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2017-01-22T01:40:55Z'
   default_branch: master
-  forks: 7
+  forks: 6
   homepage: https://vsoch.github.io/som
   html_url: https://github.com/vsoch/som
   image: /assets/images/sizes/6.png
@@ -172,11 +172,11 @@ chonkers:
   name: vsoch/caliper-metrics
   open_issues_count: 1
   owner: vsoch
-  rawsize: 573381
-  size: 573.38 MB
+  rawsize: 573741
+  size: 573.74 MB
   size_name: OH LAWD HE COMIN
   stargazer_count: null
-  updated_at: '2021-10-10T06:00:45Z'
+  updated_at: '2021-10-11T02:34:53Z'
   url: https://github.com/vsoch/caliper-metrics
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
@@ -612,6 +612,24 @@ chonkers:
   url: https://github.com/vsoch/spack-changes
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2020-12-10T19:48:39Z'
+  default_branch: develop
+  forks: 2
+  homepage: https://spack.io
+  html_url: https://github.com/vsoch/spack
+  image: /assets/images/sizes/3.png
+  language: Python
+  name: vsoch/spack
+  open_issues_count: 12
+  owner: vsoch
+  rawsize: 132662
+  size: 132.66 MB
+  size_name: A Heckin' Chonker
+  stargazer_count: null
+  updated_at: '2021-07-10T18:36:02Z'
+  url: https://github.com/vsoch/spack
+  watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2019-01-24T22:20:56Z'
   default_branch: master
   forks: 0
@@ -664,24 +682,6 @@ chonkers:
   stargazer_count: null
   updated_at: '2020-07-30T22:53:07Z'
   url: https://github.com/vsoch/snakemake-wrappers
-  watchers_count: 0
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2020-12-10T19:48:39Z'
-  default_branch: develop
-  forks: 2
-  homepage: https://spack.io
-  html_url: https://github.com/vsoch/spack
-  image: /assets/images/sizes/3.png
-  language: Python
-  name: vsoch/spack
-  open_issues_count: 12
-  owner: vsoch
-  rawsize: 128094
-  size: 128.09 MB
-  size_name: A Heckin' Chonker
-  stargazer_count: null
-  updated_at: '2021-07-10T18:36:02Z'
-  url: https://github.com/vsoch/spack
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2020-11-23T06:57:51Z'
