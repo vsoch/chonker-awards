@@ -172,11 +172,11 @@ chonkers:
   name: vsoch/caliper-metrics
   open_issues_count: 1
   owner: vsoch
-  rawsize: 599640
-  size: 599.64 MB
+  rawsize: 600582
+  size: 600.58 MB
   size_name: OH LAWD HE COMIN
   stargazer_count: null
-  updated_at: '2021-11-01T06:10:45Z'
+  updated_at: '2021-11-02T02:56:14Z'
   url: https://github.com/vsoch/caliper-metrics
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
@@ -622,7 +622,7 @@ chonkers:
   name: vsoch/spack
   open_issues_count: 12
   owner: vsoch
-  rawsize: 134525
+  rawsize: 134532
   size: 134.53 MB
   size_name: A Heckin' Chonker
   stargazer_count: null
@@ -1072,10 +1072,10 @@ chonkers:
   name: vsoch/llnl-contributors
   open_issues_count: 0
   owner: vsoch
-  rawsize: 66098
-  size: 66.1 MB
+  rawsize: 66668
+  size: 66.67 MB
   size_name: A Fine Boi
   stargazer_count: null
-  updated_at: '2021-11-01T03:09:38Z'
+  updated_at: '2021-11-02T03:04:56Z'
   url: https://github.com/vsoch/llnl-contributors
   watchers_count: 1
