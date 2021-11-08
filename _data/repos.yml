@@ -172,11 +172,11 @@ chonkers:
   name: vsoch/caliper-metrics
   open_issues_count: 1
   owner: vsoch
-  rawsize: 628169
-  size: 628.17 MB
+  rawsize: 632101
+  size: 632.1 MB
   size_name: OH LAWD HE COMIN
   stargazer_count: null
-  updated_at: '2021-11-05T05:35:28Z'
+  updated_at: '2021-11-07T05:19:45Z'
   url: https://github.com/vsoch/caliper-metrics
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
@@ -594,6 +594,24 @@ chonkers:
   url: https://github.com/vsoch/arxiv-equations
   watchers_count: 2
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2020-12-10T19:48:39Z'
+  default_branch: develop
+  forks: 2
+  homepage: https://spack.io
+  html_url: https://github.com/vsoch/spack
+  image: /assets/images/sizes/3.png
+  language: Python
+  name: vsoch/spack
+  open_issues_count: 12
+  owner: vsoch
+  rawsize: 135398
+  size: 135.4 MB
+  size_name: A Heckin' Chonker
+  stargazer_count: null
+  updated_at: '2021-07-10T18:36:02Z'
+  url: https://github.com/vsoch/spack
+  watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2021-03-11T20:00:16Z'
   default_branch: main
   forks: 0
@@ -610,24 +628,6 @@ chonkers:
   stargazer_count: null
   updated_at: '2021-03-16T19:22:42Z'
   url: https://github.com/vsoch/spack-changes
-  watchers_count: 0
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2020-12-10T19:48:39Z'
-  default_branch: develop
-  forks: 2
-  homepage: https://spack.io
-  html_url: https://github.com/vsoch/spack
-  image: /assets/images/sizes/3.png
-  language: Python
-  name: vsoch/spack
-  open_issues_count: 12
-  owner: vsoch
-  rawsize: 134586
-  size: 134.59 MB
-  size_name: A Heckin' Chonker
-  stargazer_count: null
-  updated_at: '2021-07-10T18:36:02Z'
-  url: https://github.com/vsoch/spack
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2019-01-24T22:20:56Z'
@@ -1044,6 +1044,24 @@ chonkers:
   url: https://github.com/vsoch/rpm
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2021-05-15T22:00:27Z'
+  default_branch: main
+  forks: 0
+  homepage: https://vsoch.github.io/llnl-contributors/
+  html_url: https://github.com/vsoch/llnl-contributors
+  image: /assets/images/sizes/1.png
+  language: HTML
+  name: vsoch/llnl-contributors
+  open_issues_count: 0
+  owner: vsoch
+  rawsize: 69646
+  size: 69.65 MB
+  size_name: A Fine Boi
+  stargazer_count: null
+  updated_at: '2021-11-07T03:06:02Z'
+  url: https://github.com/vsoch/llnl-contributors
+  watchers_count: 1
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2018-09-15T16:05:22Z'
   default_branch: master
   forks: 0
@@ -1061,21 +1079,3 @@ chonkers:
   updated_at: '2018-12-20T16:33:29Z'
   url: https://github.com/vsoch/map2model
   watchers_count: 0
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2021-05-15T22:00:27Z'
-  default_branch: main
-  forks: 0
-  homepage: https://vsoch.github.io/llnl-contributors/
-  html_url: https://github.com/vsoch/llnl-contributors
-  image: /assets/images/sizes/1.png
-  language: HTML
-  name: vsoch/llnl-contributors
-  open_issues_count: 0
-  owner: vsoch
-  rawsize: 68978
-  size: 68.98 MB
-  size_name: A Fine Boi
-  stargazer_count: null
-  updated_at: '2021-11-05T03:04:58Z'
-  url: https://github.com/vsoch/llnl-contributors
-  watchers_count: 1
