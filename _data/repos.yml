@@ -604,8 +604,8 @@ chonkers:
   name: vsoch/spack
   open_issues_count: 13
   owner: vsoch
-  rawsize: 142309
-  size: 142.31 MB
+  rawsize: 142585
+  size: 142.59 MB
   size_name: A Heckin' Chonker
   stargazer_count: null
   updated_at: '2021-07-10T18:36:02Z'
@@ -964,11 +964,11 @@ chonkers:
   name: vsoch/llnl-contributors
   open_issues_count: 0
   owner: vsoch
-  rawsize: 83581
-  size: 83.58 MB
+  rawsize: 83905
+  size: 83.91 MB
   size_name: A Fine Boi
   stargazer_count: null
-  updated_at: '2021-12-09T03:04:59Z'
+  updated_at: '2021-12-10T03:04:52Z'
   url: https://github.com/vsoch/llnl-contributors
   watchers_count: 1
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
