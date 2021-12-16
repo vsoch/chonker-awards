@@ -34,7 +34,7 @@ def abort_if_fail(response):
     response (requests.Response) : an unparsed response from requests
     reason                 (str) : a message to print to the user for fail.
     """
-    message = "%s: %s: %s\n %s" % (
+    message = "%s: %s\n %s" % (
         response.status_code,
         response.reason,
         response.json(),
