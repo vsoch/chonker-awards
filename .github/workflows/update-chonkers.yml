@@ -2,8 +2,8 @@ name: update-chonkers
 
 on:
   schedule:
-    # Run nightly 1am
-    - cron: 0 1 * * *
+    # Run once a month on the 12th
+    - cron: 0 0 12 * *
 
 jobs:
   Update:
