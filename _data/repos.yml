@@ -262,8 +262,8 @@ chonkers:
   name: vsoch/libabigail
   open_issues_count: 0
   owner: vsoch
-  rawsize: 414489
-  size: 414.49 MB
+  rawsize: 411047
+  size: 411.05 MB
   size_name: MEGA CHONKER
   stargazer_count: null
   updated_at: '2022-04-06T05:17:51Z'
@@ -442,13 +442,13 @@ chonkers:
   name: vsoch/vsoch.github.io
   open_issues_count: 8
   owner: vsoch
-  rawsize: 195567
-  size: 195.57 MB
+  rawsize: 196724
+  size: 196.72 MB
   size_name: HEFTYCHONK
   stargazer_count: null
-  updated_at: '2022-01-08T00:43:17Z'
+  updated_at: '2022-04-21T13:02:06Z'
   url: https://github.com/vsoch/vsoch.github.io
-  watchers_count: 9
+  watchers_count: 10
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2018-10-12T20:07:21Z'
   default_branch: master
@@ -504,6 +504,24 @@ chonkers:
   url: https://github.com/vsoch/quality-assessment-protocol
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2020-12-10T19:48:39Z'
+  default_branch: develop
+  forks: 2
+  homepage: https://spack.io
+  html_url: https://github.com/vsoch/spack
+  image: /assets/images/sizes/4.png
+  language: Python
+  name: vsoch/spack
+  open_issues_count: 15
+  owner: vsoch
+  rawsize: 170300
+  size: 170.3 MB
+  size_name: HEFTYCHONK
+  stargazer_count: null
+  updated_at: '2021-07-10T18:36:02Z'
+  url: https://github.com/vsoch/spack
+  watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2021-12-20T20:37:02Z'
   default_branch: master
   forks: 0
@@ -527,14 +545,14 @@ chonkers:
   forks: 0
   homepage: null
   html_url: https://github.com/vsoch/SciEngCloud.github.io
-  image: /assets/images/sizes/4.png
+  image: /assets/images/sizes/3.png
   language: HTML
   name: vsoch/SciEngCloud.github.io
   open_issues_count: 0
   owner: vsoch
   rawsize: 169273
   size: 169.27 MB
-  size_name: HEFTYCHONK
+  size_name: A Heckin' Chonker
   stargazer_count: null
   updated_at: '2018-12-20T16:33:30Z'
   url: https://github.com/vsoch/SciEngCloud.github.io
@@ -576,24 +594,6 @@ chonkers:
   url: https://github.com/vsoch/RunestoneServer
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2020-12-10T19:48:39Z'
-  default_branch: develop
-  forks: 2
-  homepage: https://spack.io
-  html_url: https://github.com/vsoch/spack
-  image: /assets/images/sizes/3.png
-  language: Python
-  name: vsoch/spack
-  open_issues_count: 15
-  owner: vsoch
-  rawsize: 164987
-  size: 164.99 MB
-  size_name: A Heckin' Chonker
-  stargazer_count: null
-  updated_at: '2021-07-10T18:36:02Z'
-  url: https://github.com/vsoch/spack
-  watchers_count: 0
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2022-03-06T21:00:13Z'
   default_branch: main
   forks: 0
@@ -604,8 +604,8 @@ chonkers:
   name: vsoch/river
   open_issues_count: 0
   owner: vsoch
-  rawsize: 161657
-  size: 161.66 MB
+  rawsize: 161626
+  size: 161.63 MB
   size_name: A Heckin' Chonker
   stargazer_count: null
   updated_at: '2022-03-11T21:04:14Z'
@@ -932,9 +932,9 @@ chonkers:
   size: 89.68 MB
   size_name: A Fine Boi
   stargazer_count: null
-  updated_at: '2021-03-04T03:39:51Z'
+  updated_at: '2022-05-11T15:41:02Z'
   url: https://github.com/vsoch/google-group-export
-  watchers_count: 5
+  watchers_count: 6
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2015-01-19T21:35:17Z'
   default_branch: master
