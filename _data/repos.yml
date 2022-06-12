@@ -108,6 +108,24 @@ chonkers:
   url: https://github.com/vsoch/wordfish-standard
   watchers_count: 1
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2022-06-02T14:07:14Z'
+  default_branch: main
+  forks: 0
+  homepage: https://waylonwalker.com
+  html_url: https://github.com/vsoch/waylonwalkerv2
+  image: /assets/images/sizes/6.png
+  language: null
+  name: vsoch/waylonwalkerv2
+  open_issues_count: 0
+  owner: vsoch
+  rawsize: 800220
+  size: 800.22 MB
+  size_name: OH LAWD HE COMIN
+  stargazer_count: null
+  updated_at: '2022-05-10T01:17:15Z'
+  url: https://github.com/vsoch/waylonwalkerv2
+  watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2018-03-04T06:52:01Z'
   default_branch: master
   forks: 0
@@ -167,14 +185,14 @@ chonkers:
   forks: 0
   homepage: null
   html_url: https://github.com/vsoch/caliper-metrics
-  image: /assets/images/sizes/6.png
+  image: /assets/images/sizes/5.png
   language: null
   name: vsoch/caliper-metrics
   open_issues_count: 1
   owner: vsoch
   rawsize: 703458
   size: 703.46 MB
-  size_name: OH LAWD HE COMIN
+  size_name: MEGA CHONKER
   stargazer_count: null
   updated_at: '2021-12-03T05:36:50Z'
   url: https://github.com/vsoch/caliper-metrics
@@ -212,9 +230,9 @@ chonkers:
   size: 495.16 MB
   size_name: MEGA CHONKER
   stargazer_count: null
-  updated_at: '2022-03-26T15:01:08Z'
+  updated_at: '2022-06-07T22:09:00Z'
   url: https://github.com/vsoch/hospital-chargemaster
-  watchers_count: 32
+  watchers_count: 33
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2020-10-21T22:22:30Z'
   default_branch: master
@@ -347,14 +365,14 @@ chonkers:
   forks: 0
   homepage: https://vsoch.github.io/natacha-bot/
   html_url: https://github.com/vsoch/natacha-bot
-  image: /assets/images/sizes/5.png
+  image: /assets/images/sizes/4.png
   language: Lua
   name: vsoch/natacha-bot
   open_issues_count: 4
   owner: vsoch
   rawsize: 330496
   size: 330.5 MB
-  size_name: MEGA CHONKER
+  size_name: HEFTYCHONK
   stargazer_count: null
   updated_at: '2021-12-01T00:54:26Z'
   url: https://github.com/vsoch/natacha-bot
@@ -434,7 +452,7 @@ chonkers:
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2015-09-03T20:06:16Z'
   default_branch: master
-  forks: 7
+  forks: 8
   homepage: https://vsoch.github.io
   html_url: https://github.com/vsoch/vsoch.github.io
   image: /assets/images/sizes/4.png
@@ -442,8 +460,8 @@ chonkers:
   name: vsoch/vsoch.github.io
   open_issues_count: 8
   owner: vsoch
-  rawsize: 196724
-  size: 196.72 MB
+  rawsize: 196734
+  size: 196.73 MB
   size_name: HEFTYCHONK
   stargazer_count: null
   updated_at: '2022-04-21T13:02:06Z'
@@ -486,6 +504,24 @@ chonkers:
   url: https://github.com/vsoch/matlab-duke
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2020-12-10T19:48:39Z'
+  default_branch: develop
+  forks: 2
+  homepage: https://spack.io
+  html_url: https://github.com/vsoch/spack
+  image: /assets/images/sizes/4.png
+  language: Python
+  name: vsoch/spack
+  open_issues_count: 15
+  owner: vsoch
+  rawsize: 171171
+  size: 171.17 MB
+  size_name: HEFTYCHONK
+  stargazer_count: null
+  updated_at: '2021-07-10T18:36:02Z'
+  url: https://github.com/vsoch/spack
+  watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2015-11-11T02:18:08Z'
   default_branch: master
   forks: 0
@@ -504,37 +540,19 @@ chonkers:
   url: https://github.com/vsoch/quality-assessment-protocol
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2020-12-10T19:48:39Z'
-  default_branch: develop
-  forks: 2
-  homepage: https://spack.io
-  html_url: https://github.com/vsoch/spack
-  image: /assets/images/sizes/4.png
-  language: Python
-  name: vsoch/spack
-  open_issues_count: 15
-  owner: vsoch
-  rawsize: 170300
-  size: 170.3 MB
-  size_name: HEFTYCHONK
-  stargazer_count: null
-  updated_at: '2021-07-10T18:36:02Z'
-  url: https://github.com/vsoch/spack
-  watchers_count: 0
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2021-12-20T20:37:02Z'
   default_branch: master
   forks: 0
   homepage: https://rclone.org
   html_url: https://github.com/vsoch/rclone
-  image: /assets/images/sizes/4.png
+  image: /assets/images/sizes/3.png
   language: null
   name: vsoch/rclone
   open_issues_count: 0
   owner: vsoch
   rawsize: 169292
   size: 169.29 MB
-  size_name: HEFTYCHONK
+  size_name: A Heckin' Chonker
   stargazer_count: null
   updated_at: '2021-12-20T20:37:03Z'
   url: https://github.com/vsoch/rclone
@@ -707,14 +725,14 @@ chonkers:
   forks: 0
   homepage: https://gogs.io
   html_url: https://github.com/vsoch/gogs
-  image: /assets/images/sizes/3.png
+  image: /assets/images/sizes/2.png
   language: Go
   name: vsoch/gogs
   open_issues_count: 0
   owner: vsoch
   rawsize: 130777
   size: 130.78 MB
-  size_name: A Heckin' Chonker
+  size_name: He Chomnk
   stargazer_count: null
   updated_at: '2018-12-20T16:33:29Z'
   url: https://github.com/vsoch/gogs
@@ -887,14 +905,14 @@ chonkers:
   forks: 1
   homepage: null
   html_url: https://github.com/vsoch/juliart
-  image: /assets/images/sizes/2.png
+  image: /assets/images/sizes/1.png
   language: Python
   name: vsoch/juliart
   open_issues_count: 2
   owner: vsoch
   rawsize: 100440
   size: 100.44 MB
-  size_name: He Chomnk
+  size_name: A Fine Boi
   stargazer_count: null
   updated_at: '2021-09-10T15:54:56Z'
   url: https://github.com/vsoch/juliart
@@ -1060,22 +1078,4 @@ chonkers:
   stargazer_count: null
   updated_at: '2019-02-28T20:25:37Z'
   url: https://github.com/vsoch/airflow
-  watchers_count: 0
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2021-06-02T02:43:06Z'
-  default_branch: main
-  forks: 0
-  homepage: https://software.llnl.gov
-  html_url: https://github.com/vsoch/llnl.github.io
-  image: /assets/images/sizes/1.png
-  language: null
-  name: vsoch/llnl.github.io
-  open_issues_count: 0
-  owner: vsoch
-  rawsize: 80195
-  size: 80.19 MB
-  size_name: A Fine Boi
-  stargazer_count: null
-  updated_at: '2021-06-02T02:43:06Z'
-  url: https://github.com/vsoch/llnl.github.io
   watchers_count: 0
