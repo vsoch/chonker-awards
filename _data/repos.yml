@@ -230,9 +230,9 @@ chonkers:
   size: 495.16 MB
   size_name: MEGA CHONKER
   stargazer_count: null
-  updated_at: '2022-06-07T22:09:00Z'
+  updated_at: '2022-07-10T01:58:13Z'
   url: https://github.com/vsoch/hospital-chargemaster
-  watchers_count: 33
+  watchers_count: 34
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2020-10-21T22:22:30Z'
   default_branch: master
@@ -452,7 +452,7 @@ chonkers:
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2015-09-03T20:06:16Z'
   default_branch: master
-  forks: 8
+  forks: 7
   homepage: https://vsoch.github.io
   html_url: https://github.com/vsoch/vsoch.github.io
   image: /assets/images/sizes/4.png
@@ -460,13 +460,31 @@ chonkers:
   name: vsoch/vsoch.github.io
   open_issues_count: 8
   owner: vsoch
-  rawsize: 196734
-  size: 196.73 MB
+  rawsize: 196772
+  size: 196.77 MB
   size_name: HEFTYCHONK
   stargazer_count: null
-  updated_at: '2022-04-21T13:02:06Z'
+  updated_at: '2022-06-29T16:38:58Z'
   url: https://github.com/vsoch/vsoch.github.io
   watchers_count: 10
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2020-12-10T19:48:39Z'
+  default_branch: develop
+  forks: 2
+  homepage: https://spack.io
+  html_url: https://github.com/vsoch/spack
+  image: /assets/images/sizes/4.png
+  language: Python
+  name: vsoch/spack
+  open_issues_count: 15
+  owner: vsoch
+  rawsize: 180890
+  size: 180.89 MB
+  size_name: HEFTYCHONK
+  stargazer_count: null
+  updated_at: '2021-07-10T18:36:02Z'
+  url: https://github.com/vsoch/spack
+  watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2018-10-12T20:07:21Z'
   default_branch: master
@@ -502,24 +520,6 @@ chonkers:
   stargazer_count: null
   updated_at: '2021-04-22T03:47:59Z'
   url: https://github.com/vsoch/matlab-duke
-  watchers_count: 0
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2020-12-10T19:48:39Z'
-  default_branch: develop
-  forks: 2
-  homepage: https://spack.io
-  html_url: https://github.com/vsoch/spack
-  image: /assets/images/sizes/4.png
-  language: Python
-  name: vsoch/spack
-  open_issues_count: 15
-  owner: vsoch
-  rawsize: 171171
-  size: 171.17 MB
-  size_name: HEFTYCHONK
-  stargazer_count: null
-  updated_at: '2021-07-10T18:36:02Z'
-  url: https://github.com/vsoch/spack
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2015-11-11T02:18:08Z'
