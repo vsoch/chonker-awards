@@ -86,9 +86,9 @@ chonkers:
   size: 1171.46 MB
   size_name: OH LAWD HE COMIN
   stargazer_count: null
-  updated_at: '2020-07-16T15:35:30Z'
+  updated_at: '2022-09-24T13:38:05Z'
   url: https://github.com/vsoch/vbmis.com
-  watchers_count: 1
+  watchers_count: 2
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2017-02-01T23:38:58Z'
   default_branch: master
@@ -230,9 +230,9 @@ chonkers:
   size: 495.16 MB
   size_name: MEGA CHONKER
   stargazer_count: null
-  updated_at: '2022-07-10T01:58:13Z'
+  updated_at: '2022-09-20T09:26:37Z'
   url: https://github.com/vsoch/hospital-chargemaster
-  watchers_count: 34
+  watchers_count: 35
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2020-10-21T22:22:30Z'
   default_branch: master
@@ -450,9 +450,27 @@ chonkers:
   url: https://github.com/vsoch/go
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2020-12-10T19:48:39Z'
+  default_branch: develop
+  forks: 2
+  homepage: https://spack.io
+  html_url: https://github.com/vsoch/spack
+  image: /assets/images/sizes/4.png
+  language: Python
+  name: vsoch/spack
+  open_issues_count: 16
+  owner: vsoch
+  rawsize: 202967
+  size: 202.97 MB
+  size_name: HEFTYCHONK
+  stargazer_count: null
+  updated_at: '2021-07-10T18:36:02Z'
+  url: https://github.com/vsoch/spack
+  watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2015-09-03T20:06:16Z'
   default_branch: master
-  forks: 7
+  forks: 6
   homepage: https://vsoch.github.io
   html_url: https://github.com/vsoch/vsoch.github.io
   image: /assets/images/sizes/4.png
@@ -467,24 +485,6 @@ chonkers:
   updated_at: '2022-06-29T16:38:58Z'
   url: https://github.com/vsoch/vsoch.github.io
   watchers_count: 10
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2020-12-10T19:48:39Z'
-  default_branch: develop
-  forks: 2
-  homepage: https://spack.io
-  html_url: https://github.com/vsoch/spack
-  image: /assets/images/sizes/4.png
-  language: Python
-  name: vsoch/spack
-  open_issues_count: 16
-  owner: vsoch
-  rawsize: 189880
-  size: 189.88 MB
-  size_name: HEFTYCHONK
-  stargazer_count: null
-  updated_at: '2021-07-10T18:36:02Z'
-  url: https://github.com/vsoch/spack
-  watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2018-10-12T20:07:21Z'
   default_branch: master
@@ -946,8 +946,8 @@ chonkers:
   name: vsoch/snakemake
   open_issues_count: 0
   owner: vsoch
-  rawsize: 90446
-  size: 90.45 MB
+  rawsize: 90320
+  size: 90.32 MB
   size_name: A Fine Boi
   stargazer_count: null
   updated_at: '2020-04-23T10:59:11Z'
@@ -1076,6 +1076,6 @@ chonkers:
   size: 80.23 MB
   size_name: A Fine Boi
   stargazer_count: null
-  updated_at: '2019-02-28T20:25:37Z'
+  updated_at: '2022-09-24T13:34:31Z'
   url: https://github.com/vsoch/airflow
-  watchers_count: 0
+  watchers_count: 1
