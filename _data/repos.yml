@@ -398,7 +398,7 @@ chonkers:
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2014-08-16T19:28:46Z'
   default_branch: master
-  forks: 2
+  forks: 5
   homepage: http://www.vbmis.com/bmi/authorSynth
   html_url: https://github.com/vsoch/authorSynth
   image: /assets/images/sizes/4.png
@@ -460,8 +460,8 @@ chonkers:
   name: vsoch/spack
   open_issues_count: 16
   owner: vsoch
-  rawsize: 202967
-  size: 202.97 MB
+  rawsize: 202920
+  size: 202.92 MB
   size_name: HEFTYCHONK
   stargazer_count: null
   updated_at: '2021-07-10T18:36:02Z'
@@ -478,8 +478,8 @@ chonkers:
   name: vsoch/vsoch.github.io
   open_issues_count: 8
   owner: vsoch
-  rawsize: 199211
-  size: 199.21 MB
+  rawsize: 199294
+  size: 199.29 MB
   size_name: HEFTYCHONK
   stargazer_count: null
   updated_at: '2022-06-29T16:38:58Z'
