@@ -146,7 +146,7 @@ chonkers:
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2017-01-22T01:40:55Z'
   default_branch: master
-  forks: 6
+  forks: 7
   homepage: https://vsoch.github.io/som
   html_url: https://github.com/vsoch/som
   image: /assets/images/sizes/6.png
@@ -398,7 +398,7 @@ chonkers:
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2014-08-16T19:28:46Z'
   default_branch: master
-  forks: 5
+  forks: 6
   homepage: http://www.vbmis.com/bmi/authorSynth
   html_url: https://github.com/vsoch/authorSynth
   image: /assets/images/sizes/4.png
@@ -478,13 +478,13 @@ chonkers:
   name: vsoch/vsoch.github.io
   open_issues_count: 8
   owner: vsoch
-  rawsize: 199294
-  size: 199.29 MB
+  rawsize: 199530
+  size: 199.53 MB
   size_name: HEFTYCHONK
   stargazer_count: null
-  updated_at: '2022-06-29T16:38:58Z'
+  updated_at: '2022-11-18T18:15:52Z'
   url: https://github.com/vsoch/vsoch.github.io
-  watchers_count: 10
+  watchers_count: 11
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2018-10-12T20:07:21Z'
   default_branch: master
@@ -956,7 +956,7 @@ chonkers:
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2019-10-21T17:15:01Z'
   default_branch: master
-  forks: 1
+  forks: 2
   homepage: null
   html_url: https://github.com/vsoch/google-group-export
   image: /assets/images/sizes/1.png
