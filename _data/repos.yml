@@ -460,8 +460,8 @@ chonkers:
   name: vsoch/spack
   open_issues_count: 16
   owner: vsoch
-  rawsize: 203193
-  size: 203.19 MB
+  rawsize: 203261
+  size: 203.26 MB
   size_name: HEFTYCHONK
   stargazer_count: null
   updated_at: '2021-07-10T18:36:02Z'
@@ -946,8 +946,8 @@ chonkers:
   name: vsoch/snakemake
   open_issues_count: 0
   owner: vsoch
-  rawsize: 90759
-  size: 90.76 MB
+  rawsize: 91056
+  size: 91.06 MB
   size_name: A Fine Boi
   stargazer_count: null
   updated_at: '2020-04-23T10:59:11Z'
@@ -989,6 +989,24 @@ chonkers:
   updated_at: '2018-12-20T16:33:28Z'
   url: https://github.com/vsoch/brainmeta
   watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2016-07-24T10:50:57Z'
+  default_branch: master
+  forks: 9
+  homepage: null
+  html_url: https://github.com/vsoch/pokemon
+  image: /assets/images/sizes/1.png
+  language: Python
+  name: vsoch/pokemon
+  open_issues_count: 3
+  owner: vsoch
+  rawsize: 89445
+  size: 89.44 MB
+  size_name: A Fine Boi
+  stargazer_count: null
+  updated_at: '2023-01-17T03:48:11Z'
+  url: https://github.com/vsoch/pokemon
+  watchers_count: 53
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2019-09-11T12:56:40Z'
   default_branch: master
@@ -1061,21 +1079,3 @@ chonkers:
   updated_at: '2018-12-20T16:33:29Z'
   url: https://github.com/vsoch/d3confusion
   watchers_count: 0
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2019-02-28T20:25:31Z'
-  default_branch: master
-  forks: 0
-  homepage: https://airflow.apache.org
-  html_url: https://github.com/vsoch/airflow
-  image: /assets/images/sizes/1.png
-  language: Python
-  name: vsoch/airflow
-  open_issues_count: 0
-  owner: vsoch
-  rawsize: 80229
-  size: 80.23 MB
-  size_name: A Fine Boi
-  stargazer_count: null
-  updated_at: '2022-09-24T13:34:31Z'
-  url: https://github.com/vsoch/airflow
-  watchers_count: 1
