@@ -218,7 +218,7 @@ chonkers:
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2019-01-16T17:19:18Z'
   default_branch: master
-  forks: 6
+  forks: 7
   homepage: https://vsoch.github.io/hospital-chargemaster/
   html_url: https://github.com/vsoch/hospital-chargemaster
   image: /assets/images/sizes/5.png
@@ -432,6 +432,24 @@ chonkers:
   url: https://github.com/vsoch/discourse
   watchers_count: 0
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2023-03-09T00:49:54Z'
+  default_branch: main
+  forks: 0
+  homepage: null
+  html_url: https://github.com/vsoch/test-registry
+  image: /assets/images/sizes/4.png
+  language: null
+  name: vsoch/test-registry
+  open_issues_count: 3
+  owner: vsoch
+  rawsize: 278369
+  size: 278.37 MB
+  size_name: HEFTYCHONK
+  stargazer_count: null
+  updated_at: '2023-03-09T00:49:54Z'
+  url: https://github.com/vsoch/test-registry
+  watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2021-09-14T01:30:54Z'
   default_branch: master
   forks: 0
@@ -460,8 +478,8 @@ chonkers:
   name: vsoch/spack
   open_issues_count: 16
   owner: vsoch
-  rawsize: 203261
-  size: 203.26 MB
+  rawsize: 203267
+  size: 203.27 MB
   size_name: HEFTYCHONK
   stargazer_count: null
   updated_at: '2021-07-10T18:36:02Z'
@@ -478,8 +496,8 @@ chonkers:
   name: vsoch/vsoch.github.io
   open_issues_count: 8
   owner: vsoch
-  rawsize: 199543
-  size: 199.54 MB
+  rawsize: 199700
+  size: 199.7 MB
   size_name: HEFTYCHONK
   stargazer_count: null
   updated_at: '2022-11-18T18:15:52Z'
@@ -527,14 +545,14 @@ chonkers:
   forks: 0
   homepage: null
   html_url: https://github.com/vsoch/quality-assessment-protocol
-  image: /assets/images/sizes/4.png
+  image: /assets/images/sizes/3.png
   language: Python
   name: vsoch/quality-assessment-protocol
   open_issues_count: 0
   owner: vsoch
   rawsize: 171072
   size: 171.07 MB
-  size_name: HEFTYCHONK
+  size_name: A Heckin' Chonker
   stargazer_count: null
   updated_at: '2018-12-20T16:33:30Z'
   url: https://github.com/vsoch/quality-assessment-protocol
@@ -650,7 +668,7 @@ chonkers:
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2018-11-17T13:44:43Z'
   default_branch: master
-  forks: 0
+  forks: 1
   homepage: null
   html_url: https://github.com/vsoch/arxiv-equations
   image: /assets/images/sizes/3.png
@@ -707,14 +725,14 @@ chonkers:
   forks: 0
   homepage: https://cloud.google.com/community
   html_url: https://github.com/vsoch/google-cloud-community
-  image: /assets/images/sizes/3.png
+  image: /assets/images/sizes/2.png
   language: Java
   name: vsoch/google-cloud-community
   open_issues_count: 0
   owner: vsoch
   rawsize: 131119
   size: 131.12 MB
-  size_name: A Heckin' Chonker
+  size_name: He Chomnk
   stargazer_count: null
   updated_at: '2019-01-24T22:32:45Z'
   url: https://github.com/vsoch/google-cloud-community
@@ -887,14 +905,14 @@ chonkers:
   forks: 0
   homepage: null
   html_url: https://github.com/vsoch/repofish
-  image: /assets/images/sizes/2.png
+  image: /assets/images/sizes/1.png
   language: Python
   name: vsoch/repofish
   open_issues_count: 5
   owner: vsoch
   rawsize: 101440
   size: 101.44 MB
-  size_name: He Chomnk
+  size_name: A Fine Boi
   stargazer_count: null
   updated_at: '2018-12-20T16:33:30Z'
   url: https://github.com/vsoch/repofish
@@ -1004,9 +1022,9 @@ chonkers:
   size: 89.44 MB
   size_name: A Fine Boi
   stargazer_count: null
-  updated_at: '2023-01-17T03:48:11Z'
+  updated_at: '2023-03-11T10:49:47Z'
   url: https://github.com/vsoch/pokemon
-  watchers_count: 53
+  watchers_count: 54
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2019-09-11T12:56:40Z'
   default_branch: master
@@ -1060,22 +1078,4 @@ chonkers:
   stargazer_count: null
   updated_at: '2018-12-20T16:33:29Z'
   url: https://github.com/vsoch/NeuroVault
-  watchers_count: 0
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2015-06-06T22:06:46Z'
-  default_branch: master
-  forks: 0
-  homepage: ''
-  html_url: https://github.com/vsoch/d3confusion
-  image: /assets/images/sizes/1.png
-  language: HTML
-  name: vsoch/d3confusion
-  open_issues_count: 0
-  owner: vsoch
-  rawsize: 81217
-  size: 81.22 MB
-  size_name: A Fine Boi
-  stargazer_count: null
-  updated_at: '2018-12-20T16:33:29Z'
-  url: https://github.com/vsoch/d3confusion
   watchers_count: 0
