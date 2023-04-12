@@ -230,9 +230,9 @@ chonkers:
   size: 495.16 MB
   size_name: MEGA CHONKER
   stargazer_count: null
-  updated_at: '2022-09-20T09:26:37Z'
+  updated_at: '2023-03-22T20:36:41Z'
   url: https://github.com/vsoch/hospital-chargemaster
-  watchers_count: 35
+  watchers_count: 36
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2020-10-21T22:22:30Z'
   default_branch: master
@@ -360,6 +360,24 @@ chonkers:
   url: https://github.com/vsoch/robots
   watchers_count: 3
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2023-04-02T00:14:05Z'
+  default_branch: main
+  forks: 0
+  homepage: null
+  html_url: https://github.com/vsoch/resistry-test
+  image: /assets/images/sizes/4.png
+  language: null
+  name: vsoch/resistry-test
+  open_issues_count: 0
+  owner: vsoch
+  rawsize: 338166
+  size: 338.17 MB
+  size_name: HEFTYCHONK
+  stargazer_count: null
+  updated_at: '2023-04-01T21:34:39Z'
+  url: https://github.com/vsoch/resistry-test
+  watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2020-02-21T20:18:20Z'
   default_branch: master
   forks: 0
@@ -478,8 +496,8 @@ chonkers:
   name: vsoch/spack
   open_issues_count: 16
   owner: vsoch
-  rawsize: 203267
-  size: 203.27 MB
+  rawsize: 203220
+  size: 203.22 MB
   size_name: HEFTYCHONK
   stargazer_count: null
   updated_at: '2021-07-10T18:36:02Z'
@@ -496,8 +514,8 @@ chonkers:
   name: vsoch/vsoch.github.io
   open_issues_count: 8
   owner: vsoch
-  rawsize: 199700
-  size: 199.7 MB
+  rawsize: 200328
+  size: 200.33 MB
   size_name: HEFTYCHONK
   stargazer_count: null
   updated_at: '2022-11-18T18:15:52Z'
@@ -527,14 +545,14 @@ chonkers:
   forks: 0
   homepage: null
   html_url: https://github.com/vsoch/matlab-duke
-  image: /assets/images/sizes/4.png
+  image: /assets/images/sizes/3.png
   language: MATLAB
   name: vsoch/matlab-duke
   open_issues_count: 0
   owner: vsoch
   rawsize: 177150
   size: 177.15 MB
-  size_name: HEFTYCHONK
+  size_name: A Heckin' Chonker
   stargazer_count: null
   updated_at: '2021-04-22T03:47:59Z'
   url: https://github.com/vsoch/matlab-duke
@@ -707,14 +725,14 @@ chonkers:
   forks: 0
   homepage: https://vsoch.github.io/llnl-contributors/
   html_url: https://github.com/vsoch/llnl-contributors
-  image: /assets/images/sizes/3.png
+  image: /assets/images/sizes/2.png
   language: HTML
   name: vsoch/llnl-contributors
   open_issues_count: 0
   owner: vsoch
   rawsize: 133140
   size: 133.14 MB
-  size_name: A Heckin' Chonker
+  size_name: He Chomnk
   stargazer_count: null
   updated_at: '2022-01-11T03:06:45Z'
   url: https://github.com/vsoch/llnl-contributors
@@ -887,14 +905,14 @@ chonkers:
   forks: 0
   homepage: https://pannellum.org/
   html_url: https://github.com/vsoch/pannellum
-  image: /assets/images/sizes/2.png
+  image: /assets/images/sizes/1.png
   language: JavaScript
   name: vsoch/pannellum
   open_issues_count: 0
   owner: vsoch
   rawsize: 106324
   size: 106.32 MB
-  size_name: He Chomnk
+  size_name: A Fine Boi
   stargazer_count: null
   updated_at: '2019-08-07T16:30:38Z'
   url: https://github.com/vsoch/pannellum
@@ -954,6 +972,24 @@ chonkers:
   url: https://github.com/vsoch/pybraincompare
   watchers_count: 16
 - avatar: https://avatars.githubusercontent.com/u/814322?v=4
+  created_at: '2018-02-23T06:40:08Z'
+  default_branch: master
+  forks: 0
+  homepage: https://conda-forge.github.io/
+  html_url: https://github.com/vsoch/staged-recipes
+  image: /assets/images/sizes/1.png
+  language: Python
+  name: vsoch/staged-recipes
+  open_issues_count: 0
+  owner: vsoch
+  rawsize: 100201
+  size: 100.2 MB
+  size_name: A Fine Boi
+  stargazer_count: null
+  updated_at: '2020-11-05T21:59:47Z'
+  url: https://github.com/vsoch/staged-recipes
+  watchers_count: 0
+- avatar: https://avatars.githubusercontent.com/u/814322?v=4
   created_at: '2019-10-13T16:10:06Z'
   default_branch: master
   forks: 0
@@ -964,8 +1000,8 @@ chonkers:
   name: vsoch/snakemake
   open_issues_count: 0
   owner: vsoch
-  rawsize: 91056
-  size: 91.06 MB
+  rawsize: 91435
+  size: 91.44 MB
   size_name: A Fine Boi
   stargazer_count: null
   updated_at: '2020-04-23T10:59:11Z'
@@ -1042,40 +1078,4 @@ chonkers:
   stargazer_count: null
   updated_at: '2019-09-11T12:56:41Z'
   url: https://github.com/vsoch/virtual-scanner
-  watchers_count: 0
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2019-12-29T20:48:53Z'
-  default_branch: master
-  forks: 0
-  homepage: https://vsoch.github.io/markovmeme
-  html_url: https://github.com/vsoch/markovmeme
-  image: /assets/images/sizes/1.png
-  language: Python
-  name: vsoch/markovmeme
-  open_issues_count: 0
-  owner: vsoch
-  rawsize: 85209
-  size: 85.21 MB
-  size_name: A Fine Boi
-  stargazer_count: null
-  updated_at: '2021-07-13T13:09:56Z'
-  url: https://github.com/vsoch/markovmeme
-  watchers_count: 3
-- avatar: https://avatars.githubusercontent.com/u/814322?v=4
-  created_at: '2014-12-17T19:36:56Z'
-  default_branch: master
-  forks: 0
-  homepage: neurovault.org
-  html_url: https://github.com/vsoch/NeuroVault
-  image: /assets/images/sizes/1.png
-  language: Python
-  name: vsoch/NeuroVault
-  open_issues_count: 2
-  owner: vsoch
-  rawsize: 82750
-  size: 82.75 MB
-  size_name: A Fine Boi
-  stargazer_count: null
-  updated_at: '2018-12-20T16:33:29Z'
-  url: https://github.com/vsoch/NeuroVault
   watchers_count: 0
