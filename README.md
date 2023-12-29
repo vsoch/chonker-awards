@@ -5,6 +5,8 @@ quickly see the top, chonkiest files and repositories from my GitHub.
 
 ![assets/images/chonker-awards.png](assets/images/chonker-awards.png)
 
+> This workflow has been disabled in 2023 because GitHub search doesn't seem to any longer allow finding large files.
+
 ## Usage
 
 You can run the [find-chonkers.py](find-chonkers.py) manually to generate the
